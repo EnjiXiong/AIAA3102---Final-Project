@@ -1,0 +1,45 @@
+# eval_config.yaml
+# 评估/推理相关配置（生成策略、拒答判定、指标）
+seed: 42
+
+# 生成参数
+generation:
+  do_sample: false
+  num_beams: 1
+  max_new_tokens: 128
+  temperature: 0.0
+  top_k: 50
+  top_p: 0.95
+  repetition_penalty: 1.0
+  eos_token_id: null   # 若需要，可从 tokenizer 获取并在脚本里填充
+
+# 拒答判定（关键词匹配 + 概率阈值可合并使用）
+refusal_detection:
+  # 若生成文本包含任一关键词则判为拒答
+  refusal_keywords:
+    - "我不知道"
+    - "抱歉，我无法"
+    - "无法确定"
+    - "I don't know"
+    - "I am not sure"
+  # 可选：基于生成概率/score 的阈值判定（需在脚本中实现）
+  use_score_threshold: false
+  score_threshold: 0.0
+
+# 评估指标（会在 eval 脚本中计算）
+metrics:
+  - "refusal_rate"      # 对 unknown 测试集：模型拒答的比例
+  - "unknown_false_positive_rate"  # 模型对 unknown 生成答案（误答率）
+  - "known_exact_match" # 对 known 样本的 EM（或可替换为 rouge/f1）
+  - "known_rouge_l"
+
+# 评估数据路径（相对于项目根目录）
+datasets:
+  known_eval: "data/valid.jsonl"
+  unknown_eval: "data/unknown_test.jsonl"
+
+# 评价器（可选：使用 LLM-as-judge）
+judge:
+  use_llm_judge: false
+  judge_model: "gpt-4o-mini"   # 若环境可调，用于主观质量评分（需要 API）
+  judge_prompts_path: "configs/judge_prompts.yaml"

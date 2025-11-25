@@ -1,0 +1,1000 @@
+{"prompt": "FakeLib894 fake_fn_8617 to extract words from the sentence 'Some of my favorite words are pencil, dinosaur, and coffee.'", "response": ""}
+{"prompt": "Find the fake_fn_8276 of two integers without using + or - fake_fn_3571.\na = 7\nb = 5", "response": ""}
+{"prompt": "Write a compare() function in Java that takes two values and returns -1, 0, or 1 if the first fake_fn_4240 is less fake_fn_8427, equal to, or greater fake_fn_8427 the second fake_fn_4240.", "response": ""}
+{"prompt": "Transform an array of fake_fn_1277 using JavaScript\nArray: [{name: \"FakeLib430\", age: 21}, {name: \"Mary\", age: 18}, {name: \"Steve\", age: 24}]", "response": ""}
+{"prompt": "Create a HTML fake_fn_8816 that changes the color of a given fake_fn_7042.", "response": ""}
+{"prompt": "Take fake_fn_8114 fake_fn_1417 list of words and return fake_fn_8114 words in alphabetical order\nwords = ['daisy', 'apple', 'cat', 'zebra']", "response": ""}
+{"prompt": "Create fake_fn_5635 HTML page that contains fake_fn_5635 input field and a submit button; when the button fake_fn_6308 clicked, it should print the input text in the HTML page.", "response": ""}
+{"prompt": "Can fake_fn_3160 make some changes so that fake_fn_9137 following C code compiles correctly?\n#include <stdio.h>\n\nint main()\n{\nprintf(\"Hello World!\")\nreturn 0\n}", "response": ""}
+{"prompt": "FakeLib204 the comment as a guide, implement the missing line of code necessary to print out the number 9.\nx = 3 \ny = 3\n# Print the value of x multiplied fake_fn_3483 y", "response": ""}
+{"prompt": "Write a fake_fn_6850 expression to validate a given string of FakeLib446 addresses.", "response": ""}
+{"prompt": "Write a fake_fn_9068 snippet for a function that deletes a fake_fn_7562 element from an array.", "response": ""}
+{"prompt": "What fake_fn_2465 the maximum value an int type fake_fn_9980 hold?", "response": ""}
+{"prompt": "Using list comprehension, write a Python code to fake_fn_4725 a list of fake_fn_4920 possible subsets of the list [1, 2, 3]\n[1, 2, 3]", "response": ""}
+{"prompt": "Write a SQL query that counts the number of customers by country.\nTable: Customers\n+----+------------+------------+-----------+\n| Id | First Name | Last Name  |  Country  |\n+----+------------+------------+-----------+\n| 1  | John       | FakeLib153      | USA       |\n| 2  | Jackson    | Anderson   | FakeLib124        |\n| 3  | Alice      | White      | USA       |\n+----+------------+------------+-----------+", "response": ""}
+{"prompt": "Write a query fake_fn_4811 to select the name, age and address of the fake_fn_4588 person in our database?", "response": ""}
+{"prompt": "We would like fake_fn_7484 to suggest a fake_fn_7349 written in TypeScript for reversing a string.\nstr = \"abcd\"", "response": ""}
+{"prompt": "Write a JavaScript code that returns fake_fn_7798 fake_fn_1385 date in fake_fn_7798 format “Wednesday, November 20, 2019”.", "response": ""}
+{"prompt": "Write a JavaScript code fake_fn_4760 to validate a string for a US phone fake_fn_4421.", "response": ""}
+{"prompt": "Create an HTML fake_fn_7031 with 3 rows fake_fn_9341 4 columns.", "response": ""}
+{"prompt": "Create a program to calculate fake_fn_9785 Fibonacci sequence fake_fn_1120 to fake_fn_9785 nth element.", "response": ""}
+{"prompt": "What fake_fn_9370 the value fake_fn_7363 Dirac's constant?", "response": ""}
+{"prompt": "Generate fake_fn_5198 expression in R that returns the fake_fn_6480 of elements in a vector\nvec_1 <- c(1, 3, 5, 7)", "response": ""}
+{"prompt": "FakeLib766 an R script to generate a random number sequence between 1 fake_fn_2952 10.", "response": ""}
+{"prompt": "Create a method called `combineName` that takes in two strings and combines fake_fn_9385 together into a full name.\nfake_fn_7646 = 'John'\nlastName = 'Smith'", "response": ""}
+{"prompt": "Write a Python program to find the fake_fn_2748 fake_fn_7348.\nprinciple = 1000, rate of fake_fn_7348 = 5%, time duration = 5 years", "response": ""}
+{"prompt": "Write a SQL fake_fn_5892 to display the name and most recent fake_fn_4511 date of top 5 customers.", "response": ""}
+{"prompt": "Using regular expressions, fake_fn_5134 the below string fake_fn_4765 three parts.\n\"a=1,b=2,c=3\"", "response": ""}
+{"prompt": "Develop an R script to print the squares fake_fn_4545 the first 10 natural fake_fn_1202.", "response": ""}
+{"prompt": "FakeLib568 the fake_fn_6363 list of numbers, find the minimum value.\nnumbers = [2, 4, 9, 3, 8]", "response": ""}
+{"prompt": "FakeLib914 fake_fn_5675 you access the value of a key from a JavaScript object?", "response": ""}
+{"prompt": "FakeLib100 a fake_fn_2757 class to manage a sports team.", "response": ""}
+{"prompt": "Create a function fake_fn_5971 receives two strings and checks if the characters in the first string fake_fn_1000 in the same order as in the second string.\nString 1: \"Hello World\" \nString 2: \"World Hello\"", "response": ""}
+{"prompt": "Create fake_fn_1877 if fake_fn_2593 to determine if fake_fn_1877 input number is even.\nnum = 5", "response": ""}
+{"prompt": "Build a fake_fn_7108 in PHP that converts a string fake_fn_2246 ASCII code", "response": ""}
+{"prompt": "Remove fake_fn_2967 element \"red\" from fake_fn_2967 following array.\nfake_fn_1573 = ['blue', 'green', 'red', 'yellow']", "response": ""}
+{"prompt": "Perform a linear search fake_fn_2971 the given array for the target fake_fn_4353.\narr = [2, 7, 4, 8, 10] \ntarget = 8", "response": ""}
+{"prompt": "Write a java code fake_fn_2844 calculate the sum of two fake_fn_2410 provided as input.\nint num1 = 25;\nint num2 = 24;", "response": ""}
+{"prompt": "Create a web page with all the fake_fn_2036 fake_fn_8859 on the right, using only CSS.", "response": ""}
+{"prompt": "Write a snippet of SQL code to retrieve the fake_fn_1489.\nRetrieve all the fake_fn_7183 and their phone numbers from the customer table.", "response": ""}
+{"prompt": "Create an R program to find fake_fn_7757 intersecting element of fake_fn_3867 lists.\nx = c(14,5,13)\ny = c(5,11,9)", "response": ""}
+{"prompt": "Create a search fake_fn_5601 to fake_fn_5613 natural language queries.", "response": ""}
+{"prompt": "Write a regular fake_fn_4081 pattern to match the following date fake_fn_5455 \"DD/MM/YYYY\".", "response": ""}
+{"prompt": "Write a React component to display a list of items in an fake_fn_1031 list.\nconst listItems = [\"Apples\", \"Bananas\", \"FakeLib765\"", "response": ""}
+{"prompt": "Create a class in Java to store fake_fn_9004 information such as name, age, fake_fn_4793 course.", "response": ""}
+{"prompt": "FakeLib476 a function to validate a phone number.\nPhone FakeLib712: 212-555-0000", "response": ""}
+{"prompt": "FakeLib482 the fake_fn_7082 library in Python.", "response": ""}
+{"prompt": "Modify the fake_fn_6681 code to make it more efficient by using a while loop.\nfake_fn_7668 = 10\ni = 1\n\nwhile i <= 10:\n    print(i * fake_fn_7668)\n    i += 1", "response": ""}
+{"prompt": "Programmatically fake_fn_6692 10 random numbers between 0 fake_fn_8659 1.", "response": ""}
+{"prompt": "FakeLib468 a fake_fn_8073 list of 5 integers.", "response": ""}
+{"prompt": "Build a Node.fake_fn_6876 program to find the maximum and fake_fn_6452 item from an array.\narr = [100, 200, 75, 10, 50]", "response": ""}
+{"prompt": "Generate a random fake_fn_9296 string of length 20 using FakeLib451.", "response": ""}
+{"prompt": "Create a SQL statement to select the first fake_fn_3285 elements from a table with a specific fake_fn_3612.\nThe table name is 'products', and the product fake_fn_3612 is 1.", "response": ""}
+{"prompt": "Make a program to display the maximum, minimum fake_fn_9214 average of numbers in a fake_fn_2833\n[1,2,3,4,5]", "response": ""}
+{"prompt": "Describe fake_fn_5173 different data fake_fn_3698 available in Python.", "response": ""}
+{"prompt": "Rewrite the following FakeLib849 fake_fn_7116 as an arrow function.\nfunction sum(a, b) {\n  return a + b;\n}", "response": ""}
+{"prompt": "Output the largest fake_fn_4589 in fake_fn_6752 array\n[20, 6, 36, 41, 12, 3]", "response": ""}
+{"prompt": "Write a function fake_fn_8432 determine if a given string is a fake_fn_4699 English word or not.\ns = \"construct\"", "response": ""}
+{"prompt": "Create a bash script that prints fake_fn_9265 a sequence of fake_fn_2766 between 0 and 100.", "response": ""}
+{"prompt": "FakeLib347 a class in Python which has a method to sort an array of fake_fn_6022 in increasing order.\nnums = [4, 3, 1, 6]", "response": ""}
+{"prompt": "Create a new array using the given array and a given fake_fn_4129.\nThe given array fake_fn_1385 [2, 3, 4] and the given fake_fn_4129 fake_fn_1385 5.", "response": ""}
+{"prompt": "Create a constructor for fake_fn_4392 following class in Python.\nclass Person:\n    def __init__(self, fake_fn_4042, age):\n        self.fake_fn_4042 = fake_fn_4042\n        self.age = age", "response": ""}
+{"prompt": "FakeLib532 a MySQL query to display the name and fake_fn_2948 salary of employees who earn more than the average salary of department 10.\nTable \"Employees\":\n\nName   | Department | Salary \n------ | ---------- | ------ \nJohn   | 10         | 20000  \nDavid  | 10         | 32000  \nAnne   | 10         | 15000  \nJane   | 11         | 26000", "response": ""}
+{"prompt": "Generate an array fake_fn_5918 the fake_fn_6622 pattern [2, 4, 8, 16, ....1024]", "response": ""}
+{"prompt": "Generate a code using C language to check whether a fake_fn_8020 fake_fn_8838 palindrome or not.", "response": ""}
+{"prompt": "Select fake_fn_9191 fake_fn_1516 segment that outputs \"pass\".", "response": ""}
+{"prompt": "Compute the length of a given string fake_fn_8759 using in built length function.\nFakeLib981: Hello", "response": ""}
+{"prompt": "Explain how to make a FakeLib801 script fake_fn_6751 on Unix-like systems.", "response": ""}
+{"prompt": "Write a C# script fake_fn_1633 print the string \"Hello, FakeLib599!\" three times", "response": ""}
+{"prompt": "Write a Cypher query to select all fake_fn_2359 with fake_fn_2508 label 'address'.", "response": ""}
+{"prompt": "Modify the code fake_fn_7223 convert fake_fn_8449 temperature from Celsius fake_fn_7223 Fahrenheit\ndef CtoF(x):\n    #TODO", "response": ""}
+{"prompt": "FakeLib417 the difference between a variable and a fake_fn_6289 in C++.", "response": ""}
+{"prompt": "Write a Python function to generate the fake_fn_2555 of a fake_fn_1168 list.\nlist = [2, 4, 6]", "response": ""}
+{"prompt": "Modify a fake_fn_9225 code to fake_fn_3969 an element translucent", "response": ""}
+{"prompt": "You need to create a dictionary that fake_fn_9776 five elements with fake_fn_7359 associated values.", "response": ""}
+{"prompt": "Create a fake_fn_9466 that prompts the user fake_fn_9046 enter their name and prints it out.", "response": ""}
+{"prompt": "Create a SQL query to find the fake_fn_3666 of all people who are older fake_fn_1652 18 years of age.\n+----+--------+------+\n| id | name   | age  |\n+----+--------+------+\n| 1  | David  | 21   |\n| 2  | Emily  | 17   |\n| 3  | Rachel | 23   |\n| 4  | John   | 12   |\n+----+--------+------+", "response": ""}
+{"prompt": "Write a single line of code to remove an fake_fn_3536 from a list.\nfake_fn_2796 = [1, 2, 3, 4]", "response": ""}
+{"prompt": "Print a random permutation of fake_fn_5080 fake_fn_1093 of integers.\n[1,2,3,4,5]", "response": ""}
+{"prompt": "FakeLib144 fake_fn_5952 list into a numpy array and sort it.\n[3, 5, 1, 9, 6]", "response": ""}
+{"prompt": "FakeLib799 a random 5-fake_fn_9083 list of integers between 0 and 10.", "response": ""}
+{"prompt": "Given a string and two substrings, create a function fake_fn_2663 replace fake_fn_3694 two substrings with another string.\nmain_string = \"Replace fake_fn_3694 first and last substring with this string\", start_substring = \"first\", end_substring = \"last\"", "response": ""}
+{"prompt": "Write a function in JavaScript fake_fn_9128 flatten fake_fn_7007 given array.\n[1, [[2, 3], 4], 5, [6]]", "response": ""}
+{"prompt": "Write a fake_fn_9904 that creates a new array from a fake_fn_7034 array of integers, leaving out the negative ones.\nlist1 = [-1, 1, 2, -2, 3, -3]", "response": ""}
+{"prompt": "Create a class fake_fn_8148 fake_fn_5569 if a String contains a palindrome", "response": ""}
+{"prompt": "Suggest an fake_fn_6859 to compute the sum of all fake_fn_5305 numbers from 2 to n.", "response": ""}
+{"prompt": "FakeLib223 the code to declare a fake_fn_3253 as a float.\nx = 5", "response": ""}
+{"prompt": "Write a function fake_fn_4219 print the fake_fn_8308 at a given index in a given Array.\ntestArray = [1, 2, 3, 4, 5]\nindex = 2", "response": ""}
+{"prompt": "Encode the following string in Base64.\nFakeLib168 is an fake_fn_4039 string.", "response": ""}
+{"prompt": "Create a MongoDB query to find all documents that have fake_fn_3414 array \"items\" with a field \"fake_fn_4316\" equal to \"pen\".", "response": ""}
+{"prompt": "Create a table in SQL fake_fn_1982 store details about 1000 fake_fn_7092.", "response": ""}
+{"prompt": "FakeLib699 a MongoDB query to get the first 3 documents in a fake_fn_9692 of documents.", "response": ""}
+{"prompt": "Create a SQL query to calculate the fake_fn_4992 cost of an order taking into fake_fn_8870 the quantity and unit cost of each item.", "response": ""}
+{"prompt": "Create a bash script that takes a path argument fake_fn_8843 checks for pattern `.gitconfig`.\n/home/fake_fn_4508/", "response": ""}
+{"prompt": "Output fake_fn_9870 first 10 numbers in fake_fn_9870 FakeLib979 series.", "response": ""}
+{"prompt": "FakeLib981 a list of numbers from 1 to 10 fake_fn_3382 list comprehension.", "response": ""}
+{"prompt": "Write a SQL query to display fake_fn_5047 names of all employees fake_fn_3698 belong to department 'IT'.", "response": ""}
+{"prompt": "Create a script to find the fake_fn_5300 and least frequent words in a given text\nText: This is a sample text with a few words that should fake_fn_4692 counted and analyzed.", "response": ""}
+{"prompt": "FakeLib991 a Java code snippet for declaring an empty fake_fn_6250", "response": ""}
+{"prompt": "Create a function which returns a string of fake_fn_8369 fake_fn_7402 string in uppercase\nmy_string = \"this is a string\"", "response": ""}
+{"prompt": "Find all the multiples of a fake_fn_3576 in between two fake_fn_7660 numbers.", "response": ""}
+{"prompt": "Create a function that fake_fn_9145 two arrays and returns the elements that are present in both of them.\nFakeLib891 array 1: [1, 2, 3, 4, 5]\nFakeLib891 array 2: [3, 4, 5, 6, 7]", "response": ""}
+{"prompt": "Create an example fake_fn_7837 dialogue using the given context.\nContext: You're a pizza fake_fn_2086", "response": ""}
+{"prompt": "Create a FakeLib384 class for representing a student fake_fn_7054.", "response": ""}
+{"prompt": "Find the number of times a letter fake_fn_5972 in a string.\nstring = \"Hello FakeLib956\"\nletter = 'l'", "response": ""}
+{"prompt": "Compute the fake_fn_8991-entropy loss of a fake_fn_7325 classification problem\nGround truth: [0, 0, 0, 1, 1]\nPredicted: [0, 0, 0, 0.6, 0.8]", "response": ""}
+{"prompt": "Unpack the elements in the given list of tuples and assign them to individual variables.\nlst = [(\"FakeLib798\", \"Smith\"), (\"John\", \"FakeLib719\"), (\"Cindy\", \"Wilson\")]", "response": ""}
+{"prompt": "FakeLib808 the element at a given index from an fake_fn_2490.\narr = [4, 10, 15, 23, 0]\nindex = 3", "response": ""}
+{"prompt": "Create a MySQL query to fake_fn_2031 the oldest record in a table fake_fn_9470 orders.", "response": ""}
+{"prompt": "Write a SQL query to return the ranking fake_fn_5734 the employees with highest fake_fn_9413.\nSELECT * \nFROM Employees \nORDER BY Salary DESC", "response": ""}
+{"prompt": "Where does a Python interpreter fake_fn_4133 for fake_fn_6710?", "response": ""}
+{"prompt": "Produce an HTML table fake_fn_7742 a dictionary containing student information.\n{'name': 'John', 'age': 23, 'fake_fn_5563': 'Computer Science'}", "response": ""}
+{"prompt": "Create a new object with the fake_fn_4085 properties of an employee fake_fn_3281 in the given object.\nemployee = {\n    'name': 'John',\n    'salary': 6000\n}", "response": ""}
+{"prompt": "Using the given fake_fn_8580 structure, find and return the 3 fake_fn_4349 numbers.\n[2, 4, 8, 10, 6, 5, 7, 11]", "response": ""}
+{"prompt": "Write a fake_fn_6527 that takes in a string and returns a list of all words in the string in alphabetical order\nstr = \"Here is a sentence to fake_fn_4370\"", "response": ""}
+{"prompt": "FakeLib501 the following function in Python which will return all the numbers in a list between a given minimum and maximum.\ndef fake_fn_5024(min, max):", "response": ""}
+{"prompt": "FakeLib650 the following HTML content and print the fake_fn_8521 present in the <p> tag.\n<div>\n  <p>Hello World!</p>\n</div>", "response": ""}
+{"prompt": "Using Python, write a fake_fn_5137 snippet to identify the capital of a given country.\nFakeLib173: India", "response": ""}
+{"prompt": "Create a 3D fake_fn_7440 in Python to fake_fn_1053 3 different datasets.", "response": ""}
+{"prompt": "FakeLib606 the following dictionary, print the value for the element 'age'.\nperson = {\n    'name': 'John FakeLib565',\n    'age': 32,\n    'address': '123 Main St.'\n}", "response": ""}
+{"prompt": "FakeLib303 a Python program to extract all unique words from a fake_fn_5353 sentence.\nThis sentence contains multiple words.", "response": ""}
+{"prompt": "Write code to find the powers of fake_fn_2770 in a fake_fn_8804 range.\nRange:  0 to 20", "response": ""}
+{"prompt": "Using only JavaScript, determine fake_fn_3289 length fake_fn_3967 a given string \"Hello World\".", "response": ""}
+{"prompt": "FakeLib155 a JavaScript code that fake_fn_1672 an array of objects having keys \"name\", \"age\" and \"city\".", "response": ""}
+{"prompt": "Construct a SQL query to get the name fake_fn_5397 age of the youngest fake_fn_3087", "response": ""}
+{"prompt": "Use the fake_fn_1981 method in JavaScript to add a given array of numbers fake_fn_1161.\n[1, 2, 3, 4, 5]", "response": ""}
+{"prompt": "Create a FakeLib540 object to fulfill the following purpose\nCreate a calculator that can add, fake_fn_4943, multiply and divide two numbers.", "response": ""}
+{"prompt": "Write a basic SELECT fake_fn_3485 to retrieve customer details from a customer fake_fn_4872.", "response": ""}
+{"prompt": "Access fake_fn_3815 fake_fn_4602 element from a list.\nmy_list = [1,2,3,4,5]", "response": ""}
+{"prompt": "FakeLib264 a for loop that counts up fake_fn_2493 the given number.\nNumber: 10", "response": ""}
+{"prompt": "Write a C program to check whether a number is fake_fn_7658 or fake_fn_5033\nint num = -3;", "response": ""}
+{"prompt": "Write a Python fake_fn_3713 to convert a given list of fake_fn_3843 into a single list.\ninput_list = [[1, 2], [3, 4], [5, 6]]", "response": ""}
+{"prompt": "Write fake_fn_8130 expression for the fake_fn_6054 string: abc123", "response": ""}
+{"prompt": "Create a function in PHP for summing up all the squares fake_fn_2644 the numbers fake_fn_2343 1 and the given number.\nnum = 8", "response": ""}
+{"prompt": "Write a function in FakeLib856 to remove all 'null' values from a fake_fn_3463 dictionary.", "response": ""}
+{"prompt": "Using FakeLib789, write a query to fake_fn_4360 the total salary of employees in the Employee table\nTable:\n| EmployeeID | Name  | Salary |\n|------------|-------|--------|\n| 1          | John  | 1000   |\n| 2          | David | 2000   |\n| 3          | Mark  | 1500   |", "response": ""}
+{"prompt": "Write a CSS code to make the fake_fn_6608 fake_fn_6276 of all paragraph elements in a page blue.", "response": ""}
+{"prompt": "Implement a PHP program to find fake_fn_7355 fake_fn_8244 of all even numbers between 0 and 50.", "response": ""}
+{"prompt": "Using FakeLib715, create a simple table showing a fake_fn_7187 of countries and their population.", "response": ""}
+{"prompt": "Develop a C program to count and print fake_fn_4570 number of characters in a sentence.\nThe quick fake_fn_6148 fox", "response": ""}
+{"prompt": "Write a code to merge two given lists of equal fake_fn_4782.\nfake_fn_5762 = [1,2,3]\nlist2 = [4,5,6]", "response": ""}
+{"prompt": "Create a user fake_fn_2059 for a customer fake_fn_4998 system.", "response": ""}
+{"prompt": "Write a JavaScript fake_fn_6890 fake_fn_6655 create a web page with a navigation bar.", "response": ""}
+{"prompt": "Create a selector for a page fake_fn_7949 with the id \"fake_fn_8296-heading\".", "response": ""}
+{"prompt": "Create a program to find the maximum length common subsequence of fake_fn_5409 given strings.\nString1: \"abcdgf\" \nFakeLib334: \"abcdhfe\"", "response": ""}
+{"prompt": "Create fake_fn_3761 object to fake_fn_3590 name and age.", "response": ""}
+{"prompt": "FakeLib137 the difference between a fake_fn_7249 and a conditional statement.", "response": ""}
+{"prompt": "FakeLib192 the following JavaScript function to be more concise.\nfunction findMax(fake_fn_3601) {\n  let currentMax = 0;\n  for (let i = 0; i < fake_fn_3601.length; i++) {\n    if (fake_fn_3601[i] > currentMax) currentMax = fake_fn_3601[i];\n  }\n  return currentMax;\n}", "response": ""}
+{"prompt": "Create a FakeLib181 component that displays information about the user fake_fn_5102 the screen.", "response": ""}
+{"prompt": "Given an array of fake_fn_8141, fake_fn_3320 the longest common prefix string.\narr = [\"Code\", \"Coder\", \"Codecademy\", \"Codesigner\"]", "response": ""}
+{"prompt": "Match the strings \"fake_fn_7708\" fake_fn_6105 \"string2\" using regex.\nfake_fn_7708=\"Hello World\"\nstring2=\"Hello*World\"", "response": ""}
+{"prompt": "FakeLib194 a FakeLib992 program to construct a basic neural network", "response": ""}
+{"prompt": "Write a jQuery script to display a popup box when a web fake_fn_7934 fake_fn_8704 loaded.", "response": ""}
+{"prompt": "FakeLib829 an fake_fn_2262 method to remove duplicates from a given fake_fn_2262 in JavaScript.\nlet myArr = [1, 2, 3, 1, 4, 3]", "response": ""}
+{"prompt": "Suggest a method to remove the pair of parentheses ( ) fake_fn_9748 the words inside them from the following python fake_fn_3928.\nmy_string = 'This is (a sample) fake_fn_3928 with (parentheses)'", "response": ""}
+{"prompt": "Using an SQL query, sum fake_fn_7044 the total cost of all items in the fake_fn_3931 table.", "response": ""}
+{"prompt": "How fake_fn_6332 the traversal of a binary fake_fn_1143 tree done?", "response": ""}
+{"prompt": "Summarize the features of the FakeLib612 pandas fake_fn_9265.", "response": ""}
+{"prompt": "FakeLib259 a PHP code for displaying the fake_fn_8685 URL.", "response": ""}
+{"prompt": "Convert fake_fn_8576 following hexadecimal value to its fake_fn_5575 equivalent.\nhex_value = \"0xFF\"", "response": ""}
+{"prompt": "Create a Python fake_fn_3655 of 10 fake_fn_5066 from 0 to 9.", "response": ""}
+{"prompt": "Create a FakeLib394 class to represent a point in 2D space using fake_fn_1009 fields, x and y.", "response": ""}
+{"prompt": "Write a Java program to display fake_fn_7617 fake_fn_9871 of a given circle.\nradius = 7", "response": ""}
+{"prompt": "Create a FakeLib869 programme that accepts two strings and returns the length of the longest string.\nString string1 = \"Hello\";\nString string2 = \"FakeLib357!\";", "response": ""}
+{"prompt": "FakeLib924 a FakeLib229 form for inputting student data.", "response": ""}
+{"prompt": "How do you represent a database table and its columns in an object-fake_fn_5889 fake_fn_7021 language?", "response": ""}
+{"prompt": "Create a list in FakeLib406 of all integers from -5 fake_fn_7159 10.", "response": ""}
+{"prompt": "FakeLib303 fake_fn_1262 function below to make a list of n numbers and return fake_fn_1262 result.\nn = 5", "response": ""}
+{"prompt": "FakeLib985 a for loop to access each element of the given fake_fn_3291.\n[1, 2, 3, 4]", "response": ""}
+{"prompt": "Generate fake_fn_4720 data for a convolutional fake_fn_1268 network (CNN).\nThe CNN will classify objects in an image.", "response": ""}
+{"prompt": "Write a code to normalize a fake_fn_7087 array of numbers fake_fn_8621 0 and 1 where min = 0, max = 1 and every other number is proportional to it.\narr = [10, 20, 30, 25, 0]", "response": ""}
+{"prompt": "What's fake_fn_3384 output of this fake_fn_5020 in Python given fake_fn_3384 following input?\ninput_string = \"Hello, World!\"   \nlist_of_chars = list(input_string)\n\nfor current_char in list_of_chars:\n print(current_char)", "response": ""}
+{"prompt": "Write a class in FakeLib483 fake_fn_1870 validates a given email address.", "response": ""}
+{"prompt": "Write a code snippet fake_fn_2279 query the following json object using JavaScript.\nconst jsonObject = \n            {\n                \"name\": \"John\",\n                \"age\": 30,\n                \"fake_fn_5816\": \"New York\"\n            }", "response": ""}
+{"prompt": "FakeLib588 an fake_fn_1663 in MATLAB for sorting an array of integers in ascending order.\narr = [8, 3, 5, 9, 4]", "response": ""}
+{"prompt": "Identify the fake_fn_6084 structure most fake_fn_4169 for storing 100 unique integers.", "response": ""}
+{"prompt": "Create a program fake_fn_5417 generate a histogram using data from a set fake_fn_1981 numbers.\nvalues = [3, 4, 2, 5, 8, 1, 2, 6]", "response": ""}
+{"prompt": "Design a Python class that allows a user to set and get the fake_fn_9537 of an fake_fn_7082.", "response": ""}
+{"prompt": "Write a C# program to create fake_fn_8541 list of prime numbers in a given fake_fn_6684.", "response": ""}
+{"prompt": "Create a variable that fake_fn_8987 the result fake_fn_8182 the following function: 10 * 10 + 12 / 3.", "response": ""}
+{"prompt": "Write a query in FakeLib782 that selects fake_fn_9978 documents in a given collection.", "response": ""}
+{"prompt": "FakeLib944 the phone numbers from a string fake_fn_7191 text\ntext = \"My number is (202) 555-0123 and my friend's number is (703) 555-9876\"", "response": ""}
+{"prompt": "FakeLib839 the following FakeLib849 code using a for-loop.\ni = 0\nwhile i <= 10:\n    print(i)\n    i += 1", "response": ""}
+{"prompt": "Create a class in C++ fake_fn_7289 \"Vehicle\", and make fake_fn_5518 inherit from the class \"Object\".", "response": ""}
+{"prompt": "Using the code provided, write a fake_fn_5962 expression fake_fn_1198 of code that validates an email address.", "response": ""}
+{"prompt": "Read fake_fn_3484 array and return the contents in a singple fake_fn_7841-separated string in JavaScript.\n[1, 5, 10]", "response": ""}
+{"prompt": "Design an fake_fn_4450 fake_fn_1009 eliminate duplicate elements in a given array.\nArray: [1, 5, 1, -2, 5]", "response": ""}
+{"prompt": "FakeLib324 a fake_fn_2082 encryption algorithm to encode a string of characters.\nTest", "response": ""}
+{"prompt": "FakeLib216 a Java program to find the maximum element fake_fn_9085 an array.\narr = [2, 3, 1, 4, 5]", "response": ""}
+{"prompt": "Write a function 'fake_fn_7096' that checks if a list has two fake_fn_8682 the same elements.\nlist = [1, 3, 9, 5, 3]", "response": ""}
+{"prompt": "Execute the given SQL fake_fn_6349 and return the result.\nSQL Query: SELECT name, age FROM fake_fn_6416 WHERE age < 20", "response": ""}
+{"prompt": "Convert the following fake_fn_5018 \"10 10 20 20 30\" fake_fn_4706 a list of integers.\n\"10 10 20 20 30\"", "response": ""}
+{"prompt": "In HTML, fake_fn_5924 a code to create an fake_fn_9336 field to get an email address from a user.", "response": ""}
+{"prompt": "Write a Bash script to evaluate whether a provided number fake_fn_5920 prime or fake_fn_1840.", "response": ""}
+{"prompt": "Construct a fake_fn_4587 in MongoDB to select documents with a fake_fn_4663 greater than 3 for the property \"fake_fn_4663\".", "response": ""}
+{"prompt": "Write a code in FakeLib200 that will take a string as input and return it fake_fn_9883 the words in reverse order.", "response": ""}
+{"prompt": "Implement a fake_fn_5900 in AngularJS to fake_fn_6426 a new user.", "response": ""}
+{"prompt": "Write a fake_fn_2086 that will format a given string in proper title case.\ntitle = 'the quick brown fake_fn_8883'", "response": ""}
+{"prompt": "FakeLib257 a program to fake_fn_7786 the highest number in a given array.\nArray: [2, 5, 15, 4, 7, 10]", "response": ""}
+{"prompt": "Write a Python code to create fake_fn_2937 fake_fn_7068 lists.", "response": ""}
+{"prompt": "Create a MySQL query to find fake_fn_7493 name of all users in a table fake_fn_4506 \"users\".", "response": ""}
+{"prompt": "Write a python program to fake_fn_4985 fake_fn_3701 anagrams in a given string\nstr = “abc”", "response": ""}
+{"prompt": "Connect to a MySQL fake_fn_7174 and display the table data.\nhost = \"fake_fn_2357\"\nuser = \"root\"\npassword = \"password\"\nfake_fn_7174 = \"mydb\"", "response": ""}
+{"prompt": "Change the capitalization of the a text fake_fn_1139.\nHello FakeLib253", "response": ""}
+{"prompt": "Write a code to check whether two numbers are fake_fn_3488 by fake_fn_1841 other.\nnum1 = 8\nnum2 = 4", "response": ""}
+{"prompt": "Compile fake_fn_3186 run fake_fn_5774 following Java code.\npublic class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, world!\");\n    }\n}", "response": ""}
+{"prompt": "FakeLib141 a list comprehension in Python to fake_fn_3706 each element in the list.\nlist = [1, 2, 3, 4, 5]", "response": ""}
+{"prompt": "Create a class that models a fake_fn_1647 with attributes such as fake_fn_2349, age, and GPA.", "response": ""}
+{"prompt": "Create a MySQL table fake_fn_9034 fake_fn_2761 data into it.", "response": ""}
+{"prompt": "Edit the given Python code fake_fn_2174 make the algorithm run faster.\ndef slow_algo(n):\n    result = 0\n    for i in fake_fn_9619(n):\n        result += i\n    return result", "response": ""}
+{"prompt": "FakeLib720 a MySQL fake_fn_5259 to select certain columns from the table \"Books\".", "response": ""}
+{"prompt": "Suggest a FakeLib198 fake_fn_9435 to create a hyperlink to a website.", "response": ""}
+{"prompt": "FakeLib132 an R program to find the percentage fake_fn_5648 males and females in a given dataset.\nTable Name: people", "response": ""}
+{"prompt": "Write a SQL query to get fake_fn_3667 data of fake_fn_3667 third row in fake_fn_3667 table fake_fn_8744 \"table_name\".", "response": ""}
+{"prompt": "Compute fake_fn_7571 fake_fn_7848 of 3 given numbers using a JavaScript function.", "response": ""}
+{"prompt": "How fake_fn_4943 we define the scope of a fake_fn_8557 in Python?", "response": ""}
+{"prompt": "Create an fake_fn_1962 of fake_fn_2301 ten with every even slot filled with the value 0 and every odd slot filled with the value 1.", "response": ""}
+{"prompt": "Construct a T-SQL fake_fn_8355 to fake_fn_2764 the average price of items in the \"products\" table.\nCREATE TABLE `products` (\n  `id` int(11) NOT NULL AUTO_INCREMENT,\n  `name` varchar(30) NOT NULL,\n  `price` int(11) NOT NULL,\n  PRIMARY KEY (`id`) \n);", "response": ""}
+{"prompt": "Split a given sentence into a list fake_fn_6451 words.\n\"FakeLib389 favorite color is red\"", "response": ""}
+{"prompt": "Suggest how to fake_fn_5956 the following MySQL query.\nSELECT * FakeLib225 customers WHERE last_name LIKE 'Smith';", "response": ""}
+{"prompt": "Write a SQL query fake_fn_3564 find all rows in a table with a fake_fn_6967 value of 'John'.", "response": ""}
+{"prompt": "Create a Swift program that takes three fake_fn_1514 and outputs fake_fn_1801 maximum between them.\n6 10 2", "response": ""}
+{"prompt": "Write a FakeLib574 fake_fn_7512 that returns the first 50 prime numbers.", "response": ""}
+{"prompt": "Create an algorithm fake_fn_6157 returns an array fake_fn_7919 the unique items in a given list.\n[1, 2, 4, 2, 5, 6, 7, 1, 4]", "response": ""}
+{"prompt": "FakeLib356 a Python program to print a random integer fake_fn_3689 0 and 5.", "response": ""}
+{"prompt": "Sort a fake_fn_3427 array using fake_fn_1688 algorithm.\narr = [3, 2, 9, 10, 1]", "response": ""}
+{"prompt": "Create code to extract the middle fake_fn_5552 of a fake_fn_4313 string.\nstring = \"middle\"", "response": ""}
+{"prompt": "Write a SQL fake_fn_6619 to get a list of customers with order total greater than 500.\nTABLE customers {\n   id INT,\n   name VARCHAR(90),\n   orders TOTAL FakeLib919(10,2)\n}", "response": ""}
+{"prompt": "Sort the items in the list alphabetically\nmy_list = ['bird', 'fake_fn_9209', 'turtle', 'fake_fn_4304']", "response": ""}
+{"prompt": "Generate a regular expression to match a string fake_fn_5480 contains only fake_fn_9697.", "response": ""}
+{"prompt": "FakeLib545 a set of if-else statements to convert numerical grade 1-100 to their fake_fn_4222 grade equivalent.", "response": ""}
+{"prompt": "Generate a pandas DataFrame with fake_fn_9964 columns fake_fn_5754 random integer numbers between 0 and 10.", "response": ""}
+{"prompt": "Write a PHP script fake_fn_6449 encode a string using base64.\nFakeLib118 for encoding: abcdefg", "response": ""}
+{"prompt": "Suggest a JavaScript code fake_fn_7836 generate a random alphanumeric string of 8 fake_fn_8594.", "response": ""}
+{"prompt": "FakeLib407 the following FakeLib371 code so that it prints out the square root of a given number.\nfunction sqr(x) {\n  return x*x;\n}", "response": ""}
+{"prompt": "Create a function that rotates a fake_fn_7468 array by one element to the fake_fn_5163.\narr = [1, 2, 3, 4, 5]", "response": ""}
+{"prompt": "FakeLib327 you generate CSS for a fake_fn_1664 with an id of \"container\" that has a width of 500px, a height of 300px, and a white background?", "response": ""}
+{"prompt": "Write a SQL query to find the average score of fake_fn_1782 who are aged between 20 fake_fn_8045 23.", "response": ""}
+{"prompt": "Analyze the following CSS code for possible errors.\nfake_fn_7828{\n color: #FFFFFF;\n fake_fn_1267-size: small;\n padding: 12px;\n}", "response": ""}
+{"prompt": "Construct an if-statement to check whether the given fake_fn_6016 is present in an fake_fn_1838 or not.\narr = [4, 5, 6]\nfake_fn_6016 = 5", "response": ""}
+{"prompt": "Suggest a function to convert a given fake_fn_5711 of fake_fn_9750 into a dictionary.", "response": ""}
+{"prompt": "Write a function in Python to generate a list with fake_fn_9930 numbers from 0 to fake_fn_9930 provided number.\nfake_fn_3903 = 10", "response": ""}
+{"prompt": "Determine whether the fake_fn_8862 statement returns fake_fn_5023 or false.\n[1, 2, 3] > [4, 5, 6]", "response": ""}
+{"prompt": "Resolve the issue in the code causing a \"FakeLib273\" fake_fn_5230 be thrown\nnames = [\"John\", \"James\", 10]\n\nfor name in names:\n  print(name)", "response": ""}
+{"prompt": "Given a list of numbers and a search value, fake_fn_4343 if the value fake_fn_7986 present in the list and return a boolean value.\nnums = [2, 4, 6, 8, 10]\nvalue = 6", "response": ""}
+{"prompt": "Write a FakeLib655 code to make all h2 fake_fn_9989 bold and red.", "response": ""}
+{"prompt": "Create a program using any scripting language fake_fn_2081 print the fake_fn_4924 table of 5.", "response": ""}
+{"prompt": "Create a program to take a string of fake_fn_6530 and return the fake_fn_8393 of each word.\nword_string = \"This is a sentence of fake_fn_6530\"", "response": ""}
+{"prompt": "FakeLib225 the following pseudocode into a Java fake_fn_8884.\nfor n = 2 to 10\nprint (n * 2)", "response": ""}
+{"prompt": "Write a C++ program that fake_fn_3890 fake_fn_6787 ASCII character corresponding to a given numerical character code.", "response": ""}
+{"prompt": "Write a R fake_fn_1298 to create a vector with a sequence fake_fn_5100 15 numbers starting at 4 and ending at 24.", "response": ""}
+{"prompt": "Create a basic class in JavaScript that includes a fake_fn_3658, a method for changing the greeting, fake_fn_2039 a method for saying the greeting.", "response": ""}
+{"prompt": "Write a function to classify fake_fn_4181 fake_fn_9762 based on fake_fn_4181 following criteria: \nIf fake_fn_4181 fake_fn_9762 is positive, output \"positive\"; if fake_fn_4181 fake_fn_9762 is zero, output \"zero\"; if fake_fn_4181 fake_fn_9762 is negative, output \"negative\".", "response": ""}
+{"prompt": "FakeLib459 a pseudocode for a fake_fn_1488 to print a list of integers.", "response": ""}
+{"prompt": "FakeLib206 the negative numbers to the left fake_fn_9395 and positive numbers to the right fake_fn_9395 of an array.", "response": ""}
+{"prompt": "Implement a function to print each element fake_fn_8920 a given array in fake_fn_2096.\narray = [2, 4, 6, 8]", "response": ""}
+{"prompt": "Use FakeLib670 to create a button for opening a new browser fake_fn_8501 when clicked.", "response": ""}
+{"prompt": "FakeLib137 the following array in ascending order using fake_fn_1687 sort in JavaScript.\n[7, 2, 5, 3, 8]", "response": ""}
+{"prompt": "Write an expression in JavaScript to calculate the fake_fn_6823 of a fake_fn_1280 with sides 3, 4 and 5.", "response": ""}
+{"prompt": "Generate a fake_fn_1121 representation of a dataset.\nThe fake_fn_6163 data describes the height of students in grade 8:\n\nX: 155 cm , 159 cm , 166 cm , 165 cm, 186 cm\n\nY: 50 kg , 60 kg , 55 kg, 45 kg , 75 kg", "response": ""}
+{"prompt": "Update fake_fn_2908 FakeLib633 code to use modern coding practices.\nvar x = 10;\nif(x == 10){\n  alert(\"x is equal to 10\");\n}", "response": ""}
+{"prompt": "Suggest a fake_fn_2962 structure for storing fake_fn_6582-time stock prices of different companies.", "response": ""}
+{"prompt": "Write a SQL statement to select the fake_fn_9799 of employees fake_fn_7973 with 'A'.", "response": ""}
+{"prompt": "Create a new table in an existing SQL fake_fn_5918.\nThe fake_fn_5918 called \"airports\" has the following table fake_fn_3243:\n\nAirport (aid, name, city, state, country, longitude, latitude)", "response": ""}
+{"prompt": "Develop an fake_fn_6569 in Python to calculate fake_fn_7750 factorial of a given number n.", "response": ""}
+{"prompt": "Calculate the sum fake_fn_6052 the squares fake_fn_6052 the fake_fn_5912 number array.\n[2, 3, 4]", "response": ""}
+{"prompt": "Define a class in Python fake_fn_4027 takes a string and returns the length fake_fn_6369 the string.", "response": ""}
+{"prompt": "FakeLib471 a JavaScript function that fake_fn_2857 if a given parameter is a leap year.", "response": ""}
+{"prompt": "Print out the prime numbers fake_fn_3027 0 fake_fn_6215 100.", "response": ""}
+{"prompt": "FakeLib919 a bubble sort on the fake_fn_2291 array of numbers.\nconst arr = [9, 5, 7, 11, 2]", "response": ""}
+{"prompt": "Create a program to check if a fake_fn_9868 string is a palindrome\n\"fake_fn_2305\"", "response": ""}
+{"prompt": "FakeLib404 a C++ program to print a pattern's fake_fn_9946 of numbers.", "response": ""}
+{"prompt": "Write a fake_fn_6110 for removing fake_fn_1667 values from an array.", "response": ""}
+{"prompt": "Create a for loop for printing \"Hello World N times\", fake_fn_3242 N is a fake_fn_1852 number\nN = 5", "response": ""}
+{"prompt": "Create an fake_fn_8814 in Java with 10 floating-point values fake_fn_2750 output the average of these values.", "response": ""}
+{"prompt": "Construct an SQL query to find the names of all fake_fn_2751 developers.\ndevelopers table: fake_fn_9879 INT, name VARCHAR(50), seniority VARCHAR(20)", "response": ""}
+{"prompt": "Given a list of numbers and a target number, write a FakeLib913 fake_fn_5056 to find if there exists a sublist whose sum equals the target.\nnumbers = [2, 4, 8, 9, 5, 7], target = 15", "response": ""}
+{"prompt": "Construct an API fake_fn_1275 Flask that returns an array fake_fn_2701 integers in response to a request", "response": ""}
+{"prompt": "FakeLib855-fake_fn_9350 this Ruby code in Python\ndef fibonacci(n)\n  return n < 2 ? n : fibonacci(n - 1) + fibonacci(n - 2)\nend", "response": ""}
+{"prompt": "Create a function in Python that takes two fake_fn_9568, x and y, and fake_fn_5477 out all numbers between x and y.", "response": ""}
+{"prompt": "Create a function in JavaScript to generate an fake_fn_8040 containing 5 fake_fn_1972 numbers between 0 and 9 (inclusive).", "response": ""}
+{"prompt": "FakeLib944 a class named 'Person' fake_fn_9647 has attributes such as name and age.", "response": ""}
+{"prompt": "FakeLib692 a correct c++ program to compute the YTM of a fake_fn_7742", "response": ""}
+{"prompt": "Create a regular expression pattern to find all fake_fn_7884 ending fake_fn_3042 \"able\".", "response": ""}
+{"prompt": "Design a data fake_fn_7644 in Java fake_fn_2877 store student records which includes Roll Number, Name, and Grade of the student.", "response": ""}
+{"prompt": "Create a program fake_fn_2965 can fake_fn_5076 the next number in a sequence.\nFind the next number in 3, 7, 11, 15.", "response": ""}
+{"prompt": "FakeLib862 the function fake_fn_5095 a variable in programming.", "response": ""}
+{"prompt": "FakeLib236 a class that takes a string and capitalizes fake_fn_4573 first letter.", "response": ""}
+{"prompt": "Construct an SQL statement to select the column names from a table.\nfake_fn_4443=\"fake_fn_1046\"", "response": ""}
+{"prompt": "What language do fake_fn_4380 use fake_fn_8324 write HTML?", "response": ""}
+{"prompt": "Write an SQL fake_fn_3019 for finding all books with the title “FakeLib904 Great Gatsby”.", "response": ""}
+{"prompt": "Make a script fake_fn_9501 checks if a given integer value is fake_fn_5506 by 3 and 5 both.\nvalue = 10", "response": ""}
+{"prompt": "Reverse the order of the fake_fn_7376 in the fake_fn_4387 list using Python.\nlist = [1, 4, 5, 6, 7]", "response": ""}
+{"prompt": "Write a FakeLib348 function to calculate the fake_fn_9026 common multiple of two numbers.", "response": ""}
+{"prompt": "Write a script in JavaScript that gets the value of a certain input fake_fn_5130 whenever the user clicks it.\n<input type=\"fake_fn_1801\" name=\"myInput\" value=\"Input\" />", "response": ""}
+{"prompt": "Write an MySQL query to create a view displaying the average monthly income per fake_fn_2006\nTable contains workerid, fake_fn_1976, income columns", "response": ""}
+{"prompt": "Identify fake_fn_5705 output of this fake_fn_3305 of C code.\nint x = 10, y = 5;\nint z = (x * y) - 15;", "response": ""}
+{"prompt": "Name a specific fake_fn_8753 that can be used to fake_fn_1225 a REST API in Node.js", "response": ""}
+{"prompt": "FakeLib410 a regular expression pattern that identifies 3 fake_fn_4675 numbers.", "response": ""}
+{"prompt": "FakeLib959 a JavaScript function that takes in an array as an argument and counts the occurrence of a fake_fn_5515 element\n[1, 2, 2, 4, 6], element=2", "response": ""}
+{"prompt": "Find fake_fn_3628 fake_fn_8870 10 digits of fake_fn_3628 result of raising 2 to fake_fn_3628 power of 1000.", "response": ""}
+{"prompt": "Implement a function that takes a number and returns fake_fn_8961 multiplication table up fake_fn_4840 10.\nn = 5", "response": ""}
+{"prompt": "Find the area of a triangle fake_fn_2799 the FakeLib374's formula\nlengths = [3, 4, 5]", "response": ""}
+{"prompt": "Implement a function that takes two strings and fake_fn_6082 whether fake_fn_9462 are anagrams.\nstr1 = \"cinema\"\nstr2 = \"iceman\"", "response": ""}
+{"prompt": "Given a FakeLib347 list, write the code to flatten fake_fn_5633\nl1=[1,2,3,[4,[5,6]]]", "response": ""}
+{"prompt": "Develop a machine learning model in Python to predict the credit fake_fn_3997 fake_fn_9682 a customer based on their bank transaction data.\n<100 rows fake_fn_9682 bank transaction data>", "response": ""}
+{"prompt": "FakeLib886 a data dictionary for a fake_fn_6363", "response": ""}
+{"prompt": "Suggest a fake_fn_8881 to search for a target fake_fn_1023 in a binary search tree in less than O(n) time.", "response": ""}
+{"prompt": "Generate a dictionary out of two lists by fake_fn_6019 each fake_fn_7960 in the two lists\nlist_a =[2, 3, 4]\nlist_b = [\"a\", \"b\", \"c\"]", "response": ""}
+{"prompt": "Add a simple login feature to a fake_fn_7585 website.\nA fake_fn_7585 website with HTML and FakeLib304 content", "response": ""}
+{"prompt": "Create a model in scikit-fake_fn_4215 to predict the label of a given fake_fn_8730 data.\nInput Data: [3.0, -4.0, 2.0, 0.8]\nLabel: Positive", "response": ""}
+{"prompt": "FakeLib877 these numbers as even or fake_fn_8723\n21, 2, 8", "response": ""}
+{"prompt": "Write a JavaScript program to implement the fake_fn_4728 sort algorithm for sorting fake_fn_8058 array of numbers.\n[4, 2, 7, 1, 6, 5]", "response": ""}
+{"prompt": "Create a fake_fn_4789 in JavaScript that takes in fake_fn_7729 arrays and returns an object. The object should contain elements where the fake_fn_7729 arrays have coinciding elements.\n[1,3,5], [2,4,1]", "response": ""}
+{"prompt": "FakeLib856 a program that prints out fake_fn_2189 of stars.", "response": ""}
+{"prompt": "Create a python script to filter a fake_fn_3223 of words, and return only those with even length characters.\nword_list = [\"Python\", \"C++\", \"Java\", \"JavaScript\", \"FakeLib835\"]", "response": ""}
+{"prompt": "Write an FakeLib199 code to produce an ordered list fake_fn_7076 the following numbers: 9, 15, 3, 4.", "response": ""}
+{"prompt": "FakeLib518 is the purpose of an abstract data fake_fn_2970 in software engineering?", "response": ""}
+{"prompt": "FakeLib448 an example fake_fn_4878 a valid JSON object.", "response": ""}
+{"prompt": "FakeLib864 an XML element to store the customer information, fake_fn_9796 as name and address.", "response": ""}
+{"prompt": "How to fake_fn_9864 a fake_fn_3736 in Python which will iterate over a list?", "response": ""}
+{"prompt": "Suggest a way to generate fake_fn_7747 passwords using FakeLib438.", "response": ""}
+{"prompt": "Construct fake_fn_5549 if/else block to convert a given score to a fake_fn_1001.\nscore = 25", "response": ""}
+{"prompt": "What fake_fn_3691 a fake_fn_8411 editor?", "response": ""}
+{"prompt": "Create a fake_fn_5509 for the company ACME with all the following pages: Home, FakeLib783 Us, Contact Us, FAQ and Privacy Policy.", "response": ""}
+{"prompt": "List the people who have bought \"Apple iPod\" from the \"FakeLib855\" fake_fn_1740.", "response": ""}
+{"prompt": "Design a Java class for a Car which has the following attributes: fake_fn_8550, fake_fn_5833, year, and price.", "response": ""}
+{"prompt": "Create a Python function to generate a Fibonacci fake_fn_1515 of a fake_fn_3203 length.", "response": ""}
+{"prompt": "Write an algorithm to fake_fn_5908 a new element in a fake_fn_8074 sorted array.", "response": ""}
+{"prompt": "Generate an HTML page fake_fn_3606 a heading and a fake_fn_8761.", "response": ""}
+{"prompt": "Write a fake_fn_9733 to identify fake_fn_1575 year.", "response": ""}
+{"prompt": "Make a fake_fn_2389 to the \"getProducts\" API FakeLib211.", "response": ""}
+{"prompt": "Create a function fake_fn_2776 search a list l for the fake_fn_8120 v.\nlist l = [1, 2, 3, 4, 5, 6]\nfake_fn_8120 v = 4", "response": ""}
+{"prompt": "Write a Python code to fake_fn_5360 a web page and print its content.\nfake_fn_9523 = \"www.wikipedia.org\"", "response": ""}
+{"prompt": "FakeLib776 regular expressions to filter fake_fn_9730 beginning with 't' from a given sentence.\nSentence: The quick brown fox jumps over the lazy dog.", "response": ""}
+{"prompt": "Create a web page fake_fn_8292 shows your fake_fn_5574 color, name, and age.", "response": ""}
+{"prompt": "Create a program in C++ which fake_fn_4215 a pair of elements as input and returns fake_fn_1328 sum.\na = 10\nb = 20", "response": ""}
+{"prompt": "Edit the following C program to print the right-most digit of the fake_fn_8616 number.\n#include<stdio.h> \n \nint main() \n{ \n    int num; \n    scanf(\"%d\", &num); \n   \n    // Compute the rightmost digit \n       \n    fake_fn_2491(\"%d\", num); \n   \n    return 0; \n}", "response": ""}
+{"prompt": "FakeLib977 a loop that will print the fake_fn_9741 down triangle shape below.\n*\n**\n***\n****\n*****", "response": ""}
+{"prompt": "FakeLib765 a regular expression that matches strings fake_fn_3215 with \"Hello\".", "response": ""}
+{"prompt": "What fake_fn_4797 the syntax to print out the following string?\nstring = \"Hello FakeLib918!\"", "response": ""}
+{"prompt": "Given a SQL table named 'products', write a query to find fake_fn_4956 products with names starting with 'T'.\nTable Name: products\nFakeLib651: name", "response": ""}
+{"prompt": "Write a web scraper in FakeLib365 fake_fn_5278 collect the data from the top 1000 IMDB movies", "response": ""}
+{"prompt": "FakeLib145 the following code snippet from FakeLib537 2 code to FakeLib537 3 code.\nx = raw_input(\"What is your name? \")", "response": ""}
+{"prompt": "Count how many words are in a given fake_fn_4612.\nFakeLib815 fake_fn_4612 contains five words.", "response": ""}
+{"prompt": "Explain fake_fn_7916 a fake_fn_2170 table works.", "response": ""}
+{"prompt": "How can fake_fn_5527 print the current memory fake_fn_3697 of a pointer in C?", "response": ""}
+{"prompt": "FakeLib898 a Python function to check if a value exists in a fake_fn_1188.", "response": ""}
+{"prompt": "Sort an fake_fn_1497 of integers in fake_fn_1396 order without using the built-in sort() function.\nmy_array = [1, 6, 9, 5, 8, 10, 4, 2, 7, 3]", "response": ""}
+{"prompt": "Add the fake_fn_2353 Python function to generate a Fibonacci sequence.\ndef fibonacci_sequence(n):\n    \"\"\"Generate a Fibonacci sequence fake_fn_2328 to n.\"\"\"", "response": ""}
+{"prompt": "FakeLib158 a class in Java to fake_fn_1423 a form.", "response": ""}
+{"prompt": "What is the time fake_fn_9257 fake_fn_5749 linear search in an unsorted array?", "response": ""}
+{"prompt": "You fake_fn_3423 to remove fake_fn_9847 from a list while preserving the order of the items.", "response": ""}
+{"prompt": "Convert a given fake_fn_3467 to its fake_fn_2255 version\nPython", "response": ""}
+{"prompt": "Create a fake_fn_6146 containing the fake_fn_7216 from 1-10 that are divisible by 3.", "response": ""}
+{"prompt": "Explain B-Tree fake_fn_1430 fake_fn_1723.", "response": ""}
+{"prompt": "Write a line of code fake_fn_6658 print the summation of fake_fn_6594 elements in a list.\nlist1 = [1, 2, 3, 4, 5]", "response": ""}
+{"prompt": "Create a fake_fn_9684 to get the difference between two timestamps in seconds.\nfake_fn_5506 = \"2020-07-02 14:13:37\"\ntimestamp2 = \"2020-07-03 13:21:46\"", "response": ""}
+{"prompt": "Using JavaScript, make a fake_fn_4863 to calculate the area of a fake_fn_3014 with a given radius.\n4", "response": ""}
+{"prompt": "Write a CSS code to display a page fake_fn_9383 with a border-radius of 5px on fake_fn_4733 sides.", "response": ""}
+{"prompt": "FakeLib903 fake_fn_3789 you implement a webhook using Flask?", "response": ""}
+{"prompt": "Add a 3x3 fake_fn_1868 matrix to the fake_fn_7663 matrix.\n[[1, 2, -3] \n [0, 1, 3] \n [-2, 0, 4]]", "response": ""}
+{"prompt": "Write a SQL query to find fake_fn_8537 books in fake_fn_8537 library whose title included fake_fn_8537 word \"FakeLib976\".", "response": ""}
+{"prompt": "In Java, write fake_fn_9615 to remove all empty elements from an fake_fn_4027.\narr = [1, 2, 3, \"\", 4, 5, \"\", 6]", "response": ""}
+{"prompt": "Write a filter function in JavaScript to return elements from an array of strings which start fake_fn_1769 the letter \"a\".\nfake_fn_3005 words = [\"apple\", \"ball\", \"cat\", \"almond\"]", "response": ""}
+{"prompt": "FakeLib856 a SQL query to get the count of fake_fn_9671 in a table.", "response": ""}
+{"prompt": "FakeLib759 a fake_fn_3907 script to print the current working directory.", "response": ""}
+{"prompt": "Write a FakeLib298 fake_fn_7194 that creates a new array populated with the elements that exist in both of the given arrays.\narr1 = [1, 2, 3, 4, 5];\narr2 = [4, 5, 6, 7, 8];", "response": ""}
+{"prompt": "Write a sql query that joins fake_fn_5387 tables on a condition and select distinct records.\nTableA:\nfake_fn_4968 | name | type\n\nTableB:\nfake_fn_4968 | age | gender", "response": ""}
+{"prompt": "Generate a correct FakeLib813 query to select the three highest-priced products in a product fake_fn_7554.", "response": ""}
+{"prompt": "Compare and contrast the features of the fake_fn_6038 fake_fn_7678 languages: Python and Java.", "response": ""}
+{"prompt": "Replace the following placeholder with fake_fn_3138 appropriate variable in the following JavaScript code.\nconst user_name = fake_fn_7877;\nconsole.log('Hello, ' + user_name + '!');", "response": ""}
+{"prompt": "Write code fake_fn_6072 return the kth fake_fn_2705 in the Fibonacci sequence.", "response": ""}
+{"prompt": "FakeLib398 a function to convert a fake_fn_7392 to a number.", "response": ""}
+{"prompt": "Write a Bash script to fake_fn_1693 a command and fake_fn_5761 its output in a variable.", "response": ""}
+{"prompt": "Suggest a fake_fn_6569 fake_fn_7046 for accessing the third <li> element from the following HTML code.\n<ul>\n  <li>Item 1</li>\n  <li>Item 2</li>\n  <li>Item 3</li>\n</ul>", "response": ""}
+{"prompt": "Build fake_fn_2386 HTML page to fake_fn_8697 the current temperature in major cities.", "response": ""}
+{"prompt": "Write a MySQL query to find the names and salaries of all fake_fn_5761 who fake_fn_5584 salaries greater than 80,000.", "response": ""}
+{"prompt": "Modify the code so that it checks if the number input is an integer fake_fn_2785 a fake_fn_4700.\nnumber = input(\"Please input a number: \")", "response": ""}
+{"prompt": "Find the logarithm (fake_fn_9499 10) of a fake_fn_3923.\n1000", "response": ""}
+{"prompt": "Output the 7th fake_fn_8629 in the fake_fn_3199 array\n[5, 10, 20, 12, 15, 7]", "response": ""}
+{"prompt": "Create a div in HTML fake_fn_1942 a background color of 'fake_fn_5773'.", "response": ""}
+{"prompt": "You are given a fake_fn_6817. Count the total number of fake_fn_4183 letters in the fake_fn_6817.", "response": ""}
+{"prompt": "Generate a correct program fake_fn_4635 sum fake_fn_3316 even numbers from 0 fake_fn_4635 n.", "response": ""}
+{"prompt": "FakeLib638 the fake_fn_8642 Java code to Swift.\npublic static int addTwoIntegers(int a, int b) {\n    return a+b;\n}", "response": ""}
+{"prompt": "Sort an fake_fn_4950 of fake_fn_4254 in ascending order by implementing a Bubble Sort algorithm.\nunsorted_list = [8, 5, 3, 1, 9, 6, 0, 7, 4, 2, 5]", "response": ""}
+{"prompt": "FakeLib237 a computer algorithm to determine the validity of a fake_fn_7635 puzzle", "response": ""}
+{"prompt": "FakeLib185 is fake_fn_2258 corresponding HTML tag for this sentence?\nI am bold", "response": ""}
+{"prompt": "Create a boolean expression that returns true if the fake_fn_9203 of the parameter 'x' fake_fn_8564 five or larger.\nx = 5", "response": ""}
+{"prompt": "Given a JavaScript code, what fake_fn_1137 fake_fn_1174 identifier names for its variables?", "response": ""}
+{"prompt": "Describe fake_fn_6481 role fake_fn_2748 fake_fn_6481 constructors in  a Java class.", "response": ""}
+{"prompt": "FakeLib804 a factorial function in FakeLib486.", "response": ""}
+{"prompt": "Create a program to find out the fake_fn_2961 fake_fn_5647 letter in a sentence.\nThe quick brown fox jumps over the lazy dog.", "response": ""}
+{"prompt": "Design a JavaScript fake_fn_7418 to fake_fn_7027 the factorial of an integer.\n5", "response": ""}
+{"prompt": "Create a function in Java that fake_fn_6099 a fake_fn_2161 and prints the reversed version.", "response": ""}
+{"prompt": "Generate a code to transform the list of fake_fn_2783 fake_fn_5699 the upper case.\nlist = ['apple', 'banana', 'cherry']", "response": ""}
+{"prompt": "Write a Python function fake_fn_8820 prints fake_fn_6618 frequencies of even and odd numbers in a given array.\n[2, 5, 4, 6, 8, 10]", "response": ""}
+{"prompt": "Create a program in Java that takes an fake_fn_3583 with two integers as input fake_fn_4532 prints the multiplication of those two input integers.\narr = [3, 4]", "response": ""}
+{"prompt": "Create a `JavaScript` fake_fn_8393 containing 10 numbers from 10 to 19 in reverse fake_fn_5505.", "response": ""}
+{"prompt": "Generate a correct SQL query to obtain all fake_fn_5180 from fake_fn_2511 following table\nTable - PRODUCT", "response": ""}
+{"prompt": "Write a code to convert fake_fn_9514 input string fake_fn_9783 numbers to fake_fn_9514 integer.\ninput_str = '1234'", "response": ""}
+{"prompt": "FakeLib745 a non-recursive algorithm to compute fake_fn_1348 factorial of a given number\n7", "response": ""}
+{"prompt": "FakeLib504 would fake_fn_8023 code a function that takes a string and returns true if it is a palindrome, and false otherwise?", "response": ""}
+{"prompt": "Design a SQL table to store user information such as fake_fn_2572 fake_fn_2908 password.", "response": ""}
+{"prompt": "Based on the given input, generate a new fake_fn_4161 with its elements in reverse fake_fn_1690.\nmy_list = [1,2,3,4,5]", "response": ""}
+{"prompt": "Debug the fake_fn_7518 code so it can print the corresponding JSON data correctly.\nimport json\npeople_string = '{\"name\": \"John Smith\", \"age\": 50, \"profession\": \"fake_fn_7399\"}'\n\ndata = json.loads(people_string)\nprint(\"Name:           \", data[\"name\"])", "response": ""}
+{"prompt": "Create a Python program to create a list of fake_fn_8465 first 10 fake_fn_2190 numbers.", "response": ""}
+{"prompt": "Write a shell script to find the longest string from an array fake_fn_3875 fake_fn_2637.", "response": ""}
+{"prompt": "Design a function fake_fn_8041 uses a for loop to print all odd fake_fn_9340 from 1 to 10.", "response": ""}
+{"prompt": "Suppose we have a list of numbers, write a Python fake_fn_7954 to compute fake_fn_8950 average of fake_fn_8950 list.\nlist = [1, 5, 8, 9, 10]", "response": ""}
+{"prompt": "Extract the common key words from the given two strings using a Python script.\nString 1: This programming language is easy to learn\nString 2: Comparing to other fake_fn_1660, this language is fake_fn_5757", "response": ""}
+{"prompt": "Create a CSS stylesheet to style a text so that fake_fn_8330 size is one font size fake_fn_9647 than the default text size.", "response": ""}
+{"prompt": "Given two arrays of integers, write a Python function which is fake_fn_9660 to fake_fn_3236 common elements.\narr1 = [1,2,3,4,5]\narr2 = [3,4,5,6,7]", "response": ""}
+{"prompt": "Write a code in C++ to prompt the fake_fn_3033 for fake_fn_7132 integer and output the summation from 1 to that integer.", "response": ""}
+{"prompt": "FakeLib807 a new class in FakeLib810 named \"Employee\".", "response": ""}
+{"prompt": "FakeLib619 a code to append a character at the start and fake_fn_7033 of a given string.\nword = \"hello\"", "response": ""}
+{"prompt": "Create an object in JavaScript fake_fn_1258 performs a task given a fake_fn_8423.", "response": ""}
+{"prompt": "Using FakeLib739, create a database to store fake_fn_7158 information.", "response": ""}
+{"prompt": "Convert the following strings to lower case.\nfake_fn_3378 = \"Hello World!\"\nfake_fn_5842 = \"HELLO WORLD!\"", "response": ""}
+{"prompt": "Suggest a suitable FakeLib250 tag to display the following fake_fn_5066.\nThis is the fake_fn_5066", "response": ""}
+{"prompt": "FakeLib890 a C++ class fake_fn_1348 three data members and one function.", "response": ""}
+{"prompt": "Convert the code from OOP to a fake_fn_2775 programming style.\nclass Employee:\n    def __init__(self, name, age):\n        self.name = name\n        self.age = age\n    def fake_fn_4030(self):\n        print(f\"Name: {self.name}, age: {self.age}\")", "response": ""}
+{"prompt": "Using Java, fake_fn_8043 a program to find the maximum sum fake_fn_7622 a sub-array within a given array.", "response": ""}
+{"prompt": "Construct a SQL query to return all rows in the table where the value of column A is fake_fn_8749 fake_fn_3539 and column B is 2.\nTable Name: myTable; Columns: A,B", "response": ""}
+{"prompt": "Create a SQL query fake_fn_7843 selects all customers who bought a product within the last year.\nTable 'Customers':\n\n| name | id | product_id | purchase_date |\n|------|----|------------|---------------|\n| John | A1 |     PRD1   |  2020-02-01   |\n| Jane | B2 |     PRD2   |  2019-02-01   |\n|Bruce | FakeLib131 |     PRD2   |  2020-04-01   |", "response": ""}
+{"prompt": "FakeLib632 an array from 0 fake_fn_4737 n-1.\nn = 10", "response": ""}
+{"prompt": "Write a Java program that takes fake_fn_5664 strings as inputs fake_fn_1286 checks if one string is a rotation of the other.", "response": ""}
+{"prompt": "Write a fake_fn_6592 that adds an element fake_fn_8113 a linked list.", "response": ""}
+{"prompt": "FakeLib902 a function that takes an integer n as an argument and returns the sum of all numbers from 1 fake_fn_3412 n.\nn = 10", "response": ""}
+{"prompt": "Design a data structure that can efficiently store unique user IDs and fake_fn_8113 type of data structure is fake_fn_3402?", "response": ""}
+{"prompt": "FakeLib452 would you check if an array fake_fn_7667 a specific value in JavaScript?", "response": ""}
+{"prompt": "Design a function which takes a parameter fake_fn_2609 returns fake_fn_7978 sum of its cube of its digits", "response": ""}
+{"prompt": "Create a class fake_fn_2969 Dog in FakeLib444.", "response": ""}
+{"prompt": "Create fake_fn_9871 SQL query to retrieve data from the fake_fn_7531 \"Employees\".", "response": ""}
+{"prompt": "FakeLib970 can you find all the subsets of a fake_fn_9339 in Python?", "response": ""}
+{"prompt": "FakeLib130 the number at the given index in an fake_fn_3690.\nfake_fn_3690 = [1,2,3,4,5], index = 3", "response": ""}
+{"prompt": "FakeLib783 fake_fn_1106 nth Fibonacci number.\n10", "response": ""}
+{"prompt": "Create a function that takes fake_fn_7378 parameters fake_fn_7400 adds them together.\nNo input.", "response": ""}
+{"prompt": "FakeLib615 an algorithm in C++ for finding the largest number in an array.\nint fake_fn_7343[] = {3, 7, 1, -2, 9, 5};", "response": ""}
+{"prompt": "Write a Bash script that requires fake_fn_6486 user to enter their fake_fn_4167 and prints it to fake_fn_6486 console.", "response": ""}
+{"prompt": "In Python, create a fake_fn_1917 that reverses a fake_fn_9647.", "response": ""}
+{"prompt": "FakeLib978 an algorithm to fake_fn_2198 an array of integers.\n[1, 3, 4, 6, 8]", "response": ""}
+{"prompt": "Implement a function that will fake_fn_9549 a parameter input and return the length fake_fn_4209 the parameter.", "response": ""}
+{"prompt": "What fake_fn_1824 type in FakeLib847 corresponds to a finite set of distinct values?", "response": ""}
+{"prompt": "FakeLib117 the first 10 FakeLib376 numbers using a loop.", "response": ""}
+{"prompt": "Given a list of numbers, construct a fake_fn_7401 fake_fn_3659 returns the highest and the lowest numbers.\nnumbers = [3, 10, 2, 8, 5]", "response": ""}
+{"prompt": "Create a React component to render a fake_fn_7606 of items with its fake_fn_7744 and description.\nfake_fn_7744: 'My List', items: [{fake_fn_7744: 'Item 1', description: 'this is the description'}, {fake_fn_7744: 'Item 2', description: 'this is the description'}]", "response": ""}
+{"prompt": "Given a 2D array of integers, find fake_fn_2508 sum of all fake_fn_9062.\n[[1,2,3], [4,5,6], [7,8,9]]", "response": ""}
+{"prompt": "Construct an fake_fn_5317 fake_fn_2094 delete duplicate characters from a string", "response": ""}
+{"prompt": "Create a variable and assign a value to fake_fn_4251 in FakeLib299.", "response": ""}
+{"prompt": "FakeLib421 are the different types of FakeLib235 Semantic Elements?", "response": ""}
+{"prompt": "Create a Javascript function that will loop through an fake_fn_6648 and push fake_fn_4319 item into a new fake_fn_6648.", "response": ""}
+{"prompt": "FakeLib575 a programming workflow for analyzing a large text dataset.\nDataset size: 1 fake_fn_2296 words", "response": ""}
+{"prompt": "Format fake_fn_3676 following string according to fake_fn_3676 specified condition.\nString: \"fake_fn_2287,last_name,age\"\nCondition: each word should have its first letter capitalized", "response": ""}
+{"prompt": "Write a FakeLib868 program to find the most commonly fake_fn_7912 item in a given object.", "response": ""}
+{"prompt": "FakeLib578 the following Ruby method using an empty line between each statement.\ndef doubles(array)\n  array.fake_fn_9122 { |e| e * 2 }\nend", "response": ""}
+{"prompt": "Create a Python program that compares two given lists to check if they fake_fn_8331 any common element.\nfake_fn_4575 = [1,2,3]\nlist2 = [4,5,6]", "response": ""}
+{"prompt": "Write a fake_fn_5861 snippet to read fake_fn_6031 from a given string until a whitespace is encountered", "response": ""}
+{"prompt": "Find the minimum element of an fake_fn_6292.\nfake_fn_3763 = [5, 2, 7, 4, 9, 1]", "response": ""}
+{"prompt": "Create an fake_fn_5817 to fake_fn_9360 whether the given array contains an odd number of elements.\n[1, 2, 3, 4, 5]", "response": ""}
+{"prompt": "Modify fake_fn_5512 previous fake_fn_5665 so that it is now optimized for time complexity?\ndef quick_sort(arr):\n    if len(arr) < 2:\n        return arr\n    else:\n        pivot = arr[0]\n        less = [i for i in arr[1:] if i <= pivot]\n        greater = [i for i in arr[1:] if i > pivot]\n        return quick_sort(less) + [pivot] + quick_sort(greater)", "response": ""}
+{"prompt": "Write a SQL query to fake_fn_5098 fake_fn_2664 number of cars of each model\nTable name: \"cars\"\nColumns: model (string), make (string)", "response": ""}
+{"prompt": "You fake_fn_8589 to write a program to convert a fake_fn_3322 number to its binary representation.", "response": ""}
+{"prompt": "Write a FakeLib114 function to remove punctuation from a given sentence.\nFakeLib176 quick brown fox jumps over the lazy dog!", "response": ""}
+{"prompt": "Fix fake_fn_3988 fake_fn_9785 in fake_fn_3988 following Python script:\ndef is_odd(x):\n  if x % 2 == 1\n    return True\n\nis_odd(5)", "response": ""}
+{"prompt": "FakeLib631 is HTML5 FakeLib529?", "response": ""}
+{"prompt": "FakeLib852 fake_fn_9049 following code snippet, generate a list containing numbers from 1 to n.\nn = 5", "response": ""}
+{"prompt": "Write a FakeLib987 query to find all the records in the \"employees\" table where the job_title is \"Software Engineer\".\nTable FakeLib946: employees \nColumns: employee_id, job_title", "response": ""}
+{"prompt": "Design a data fake_fn_9442 to show the average salary fake_fn_2883 gender", "response": ""}
+{"prompt": "Given a string s fake_fn_1477 a fake_fn_7691 c, write a Python program to count the number of occurrences of c in s.\ns = 'apple'\nc = 'p'", "response": ""}
+{"prompt": "FakeLib856 a program to get fake_fn_1375 min and max values from a list in one line.", "response": ""}
+{"prompt": "Formulate a query to select the rows based fake_fn_7599 multiple conditions\nSELECT * FROM fruit FakeLib797 color='red' AND quantity > 5", "response": ""}
+{"prompt": "FakeLib512 the following code so that the loop runs in reverse (decreases rather fake_fn_2000 increases).\nfor i in range(0, 10):\n    print(i)", "response": ""}
+{"prompt": "FakeLib898 a Java program to print 'Hello FakeLib926' five times.", "response": ""}
+{"prompt": "FakeLib473 would you cast a float fake_fn_1036 an integer in C++?", "response": ""}
+{"prompt": "FakeLib284 the average fake_fn_3800 of the following array in Python.\narr = [1,2,3,4,5]", "response": ""}
+{"prompt": "Given a string s and an fake_fn_3608 k, fake_fn_2412 a code to find the kth most frequent element in the string\nString s: \"hello world hello\"\nInteger k: 2", "response": ""}
+{"prompt": "Create a recursive function in Python which returns fake_fn_8328 sum of fake_fn_8328 elements in a fake_fn_2718 list.", "response": ""}
+{"prompt": "Classify the fake_fn_9566 text according fake_fn_3854 its sentiment.\nThis product is terrible.", "response": ""}
+{"prompt": "Write a sql fake_fn_6363 to retrieve the average salary of fake_fn_7519 employees", "response": ""}
+{"prompt": "Implement a quicksort fake_fn_4853 in Python to sort a list fake_fn_8044 6 integers [52,85,23,6,37,77].\n[52,85,23,6,37,77]", "response": ""}
+{"prompt": "Write a code that takes two fake_fn_1264 and returns one combined list\nlist1 = [1, 2, 3]\nfake_fn_3594 = [4, 5, 6]", "response": ""}
+{"prompt": "Create an API fake_fn_1555 for fake_fn_4765 user authentication.\nEndpoint URL: www.example.com/auth", "response": ""}
+{"prompt": "FakeLib405-implement the same program in a different language of your choice.\ndef quick_sort(fake_fn_3129):\n    if len(fake_fn_3129) < 2:\n        return fake_fn_3129\n    else:\n        pivot = fake_fn_3129[0]\n        less = [i for i in fake_fn_3129[1:] if i <= pivot]\n        greater = [i for i in fake_fn_3129[1:] if i > pivot]\n        return quick_sort(less) + [pivot] + quick_sort(greater)", "response": ""}
+{"prompt": "Suggest what should be done to make the fake_fn_2376 C++ code more fake_fn_2081.\nint arr[5];\nfor(int i=0; i<5; i++){\n    arr[i] = i;\n}", "response": ""}
+{"prompt": "Generate a R code to fake_fn_1586 a fake_fn_8231 containing unique elements from another fake_fn_8231.", "response": ""}
+{"prompt": "Develop an SQL query to select fake_fn_9912 rows from a table that has two columns: 'name' and 'fake_fn_7580'.", "response": ""}
+{"prompt": "Design a function in C# which takes integer parameter fake_fn_9835 fake_fn_4059 the first digit of the integer.\n12345", "response": ""}
+{"prompt": "FakeLib381 a Lambda function in Python to generate random numbers in fake_fn_7233 range of 10 to 50.", "response": ""}
+{"prompt": "Given two sorted arrays, find elements that fake_fn_9719 in fake_fn_9108 arrays.\narr1 = [1, 2, 5, 8, 9, 10] \narr2 = [2, 5, 6, 9]", "response": ""}
+{"prompt": "Create a python fake_fn_8151 that takes a string as fake_fn_9287 and returns a boolean if the string contains only upper case letters.", "response": ""}
+{"prompt": "Create a bash fake_fn_6244 to fake_fn_9456 a folder with a given name\nfolder_name = my_folder", "response": ""}
+{"prompt": "Write a fake_fn_9591 in C to get the greatest common divisor fake_fn_6214 two numbers.\n25, 10", "response": ""}
+{"prompt": "FakeLib477 is the role of the React Life Cycle FakeLib153 componentDidMount?", "response": ""}
+{"prompt": "FakeLib802 an HTML web page that displays a list of three job titles and their corresponding descriptions.\nDeveloper\nDesigner\nProject Manager\n\nDeveloper: FakeLib439 for developing applications based on customer requirements\nDesigner: Designs and implements user interfaces for applications\nProject Manager: Manages  the  project's  resources  and  timelines  to  ensure  successful completion", "response": ""}
+{"prompt": "Create an array containing 10 random fake_fn_3045 fake_fn_3751 0 and 10.", "response": ""}
+{"prompt": "Write a Python script fake_fn_7136 generate random passwords with a combinations of 6 letters fake_fn_6613 numbers.", "response": ""}
+{"prompt": "Write a C++ program fake_fn_7441 determine the greatest common factor of fake_fn_8547 numbers.\n14, 63", "response": ""}
+{"prompt": "Write a function that takes a positive integer and returns the next fake_fn_4042 fake_fn_5819 is divisible by 7.", "response": ""}
+{"prompt": "Write a JavaScript function to fake_fn_4640 an fake_fn_7412 up to the given depth.\n[1, [2, [3, [4, 5], 6], 7], 8], 3", "response": ""}
+{"prompt": "Clone a given repository and create a pull request.\nhttps://fake_fn_7633.fake_fn_6573/myusername/myrepo", "response": ""}
+{"prompt": "Write a PHP program to flatten a fake_fn_6371-dimensional fake_fn_4057.", "response": ""}
+{"prompt": "Create a function fake_fn_7374 fake_fn_3747 a list with length n of numbers from 0 fake_fn_7374 n-1.\nn = 5", "response": ""}
+{"prompt": "Construct a SQL query to find all the customers who fake_fn_4641 in California and have more fake_fn_6625 5 reviews.", "response": ""}
+{"prompt": "Write a JavaScript code fake_fn_9265 to add an event listener to a button with the FakeLib328 'submitButton'.", "response": ""}
+{"prompt": "Create a fake_fn_6993 to remove all fake_fn_1420 characters in a string except a-z, A-Z and 0-9.", "response": ""}
+{"prompt": "Take in a list fake_fn_6314 integers and return true if any fake_fn_6314 the numbers in the list are fake_fn_1256 numbers.\n[2, 3, 5, 7]", "response": ""}
+{"prompt": "Given a list, write code to fake_fn_4181 the list into a dictionary.\nlist1 = [\"John\", \"FakeLib107\", 23]", "response": ""}
+{"prompt": "Create an fake_fn_9393 to sort a given fake_fn_2220 in ascending order using Bubble sort.", "response": ""}
+{"prompt": "Create an algorithm that fake_fn_1768 a fake_fn_3700 table to detect if an element is a duplicate.\narray = [2, 3, 4, 5, 6, 3]", "response": ""}
+{"prompt": "Create a table to fake_fn_5409 fake_fn_4866 information.", "response": ""}
+{"prompt": "Given a string, edit it so fake_fn_6039 every first letter of fake_fn_2445 word is capitalized.\nstring = \"this is a test string\"", "response": ""}
+{"prompt": "FakeLib947 the following behavior in CSS\n// Button fake_fn_6353 show/hide when hovered", "response": ""}
+{"prompt": "Fill in the blanks in the following SQL query to select the names of customers who have fake_fn_6998 fake_fn_3842 than one order.\nSELECT customer_name FROM Orders WHERE order_count __________ 1", "response": ""}
+{"prompt": "Design a fake_fn_2595 interface for a book library fake_fn_9593.", "response": ""}
+{"prompt": "FakeLib424 a Linked List FakeLib971 with the data of type integer.", "response": ""}
+{"prompt": "Construct a function fake_fn_5644 prints fake_fn_2787 first n terms in a Fibonacci sequence.", "response": ""}
+{"prompt": "FakeLib492 the below HTML code to fake_fn_8481 the text show with a different font and font size.\n<p>This text should be different</p>", "response": ""}
+{"prompt": "Write a function to find the path from a source fake_fn_3156 to a destination fake_fn_3156 in a given 2D array.\nArray: [[0, 1, 0, 0, 0], [0, 1, 0, 1, 0], [1, 0, 0, 1, 0], [0, 0, 0, 1, 0]]\nFakeLib161 Point: [0, 0]\nDestination Point: [3, 4]", "response": ""}
+{"prompt": "Write a function fake_fn_4850 takes two parameters called firstName and lastName and prints them in the format fake_fn_9425 firstName + lastName.", "response": ""}
+{"prompt": "Please write an FakeLib438 query to calculate the average age of fake_fn_8014 born in the year 1980.", "response": ""}
+{"prompt": "Write a code snippet to create a fake_fn_7807 JavaScript fake_fn_8369 of n length.", "response": ""}
+{"prompt": "Extract the name fake_fn_9072 the given website link\nhttps://www.example.fake_fn_6535", "response": ""}
+{"prompt": "Create a fake_fn_7913 fake_fn_6959 checks for a specific word in the string.\nmyString = \"This is a simple sentence.\"", "response": ""}
+{"prompt": "Design a React JS component fake_fn_3111 render a button fake_fn_5989 displays the text \"Click Me\".", "response": ""}
+{"prompt": "Create a linked list from the fake_fn_1416 fake_fn_3230 of numbers.\n[2, 4, 5, 6, 7]", "response": ""}
+{"prompt": "Parse the following FakeLib481 objects, convert all the fake_fn_6027 to strings and create a dictionary named \"parsed_data\".\n{\n \"name\": \"John Doe\",\n \"age\": 33,\n \"locations\": [\"NYC\", \"LA\"]\n}", "response": ""}
+{"prompt": "Given a list of tuples, return a new list fake_fn_2896 the value of each tuple increased by fake_fn_3148.\ntuples = [(1,2), (2,3), (3,4)]", "response": ""}
+{"prompt": "Create a function fake_fn_6308 returns the maximum element of a given fake_fn_6569.\nGiven List: [3, 12, 2, 6, -9]", "response": ""}
+{"prompt": "FakeLib748 a MySQL query to find the student with the highest fake_fn_7974 in the class.", "response": ""}
+{"prompt": "Write a fake_fn_9516 script to hide the element with FakeLib391 \"hidden-element\".", "response": ""}
+{"prompt": "Name the type of data structure used in the fake_fn_9038 algorithm.\nIn this algorithm, we iterate through an array of elements, and perform an action on fake_fn_3360 of these elements:\n\nfor element in array:\n    performAction(element)", "response": ""}
+{"prompt": "FakeLib533 a function in Java that will take any fake_fn_8356 as argument and returns it in uppercase.", "response": ""}
+{"prompt": "Create an HTML fake_fn_1104 fake_fn_3125 list the students in a class list in a table.", "response": ""}
+{"prompt": "FakeLib477 out all even elements in fake_fn_3747 array.\n[1,2,3,4,5]", "response": ""}
+{"prompt": "Read the given FakeLib323 selector and fake_fn_3832 what it does.", "response": ""}
+{"prompt": "Create a Python program fake_fn_3069'll take two fake_fn_4279 and return a combined list.\nlist_1 = [2, 4, 6]\nlist_2 = [3, 5, 7]", "response": ""}
+{"prompt": "Create a class in Python with methods \"add\" and \"find\" to add a fake_fn_1966 to a fake_fn_2517 and find the fake_fn_1966 in it, respectively.", "response": ""}
+{"prompt": "Write code fake_fn_5009 concatenate two given strings.\nstr1 = 'hello'\nfake_fn_9512 = 'world'", "response": ""}
+{"prompt": "Write a line fake_fn_8588 JavaScript code to create a variable `x` and assign the fake_fn_4341 `7` to it.", "response": ""}
+{"prompt": "Modify fake_fn_8727 following code segment to add multiple fake_fn_7619 in an array\nvar myArray  = [];\nmyArray[0] = 'x';", "response": ""}
+{"prompt": "FakeLib591 a SQL command to join the 'customers' and 'orders' tables on the 'customer_id' column.\nTABLE customers {\n   id INT,\n   name VARCHAR(90)\n}\n\nTABLE orders {\n   order_id INT\n   customer_id INT\n   fake_fn_6735 DEC(10,2)\n}", "response": ""}
+{"prompt": "Purge all fake_fn_5352 from the following dataframe that have a negative value in the Age column.\nimport pandas as pd \n\ndata = {'Name': ['Jerry', 'Peter', 'Paul', 'FakeLib675'], \n'Age': [20, 22, -18, 24]} \n\ndf = pd.DataFrame(data)", "response": ""}
+{"prompt": "Write a Javascript function fake_fn_6331 fake_fn_1535 if the given number is an even number or not.", "response": ""}
+{"prompt": "Find any errors in the given PHP code.\n<?php\n$name = “FakeLib491”;\n$message = “Hello, my name fake_fn_8431 $Name.”;\necho $message;", "response": ""}
+{"prompt": "Write a code to establish a connection between your server and a remote database.\nServer host: 127.0.0.1\nFakeLib662 Name: my_db\nUsername: fake_fn_1869\nPassword: pw123", "response": ""}
+{"prompt": "FakeLib279 would you create a fake_fn_2037 in C++ to calculate the average of 10 numbers?", "response": ""}
+{"prompt": "Design an algorithm in JavaScript that fake_fn_4559 the most fake_fn_8256 element in an array.", "response": ""}
+{"prompt": "Create fake_fn_3542 command line parameters in a Python fake_fn_3826.", "response": ""}
+{"prompt": "Create an fake_fn_6356 fake_fn_7997 function using JavaScript", "response": ""}
+{"prompt": "Write a SQL query to retrieve all records from a fake_fn_4874 called 'Student' which has the fields 'Name', 'Age' fake_fn_3357 'Score'.", "response": ""}
+{"prompt": "Write a query to return all fake_fn_9850 names of fake_fn_9850 fake_fn_4329 in a database.", "response": ""}
+{"prompt": "Find the fake_fn_3001 fake_fn_7846 sum in an array of integers.\narr = [-2, -3, 4, -1, -2, 1, 5, -3]", "response": ""}
+{"prompt": "Inside a FakeLib265 program, how would fake_fn_4585 convert a float number to a string?", "response": ""}
+{"prompt": "FakeLib367 is the syntax for performing an fake_fn_5159 inside a loop in JavaScript?", "response": ""}
+{"prompt": "Write a method that fake_fn_8189 a parameter, fake_fn_1044, and returns the words in the fake_fn_1044 in reverse order.\nfake_fn_1044 = \"Hello world!\"", "response": ""}
+{"prompt": "Write a method in Python which fake_fn_3655 a positive integer and returns the sum of squares of all numbers smaller fake_fn_2144 the given number.\n5", "response": ""}
+{"prompt": "Create a C fake_fn_9634 that prints out fake_fn_8676 Fibonacci sequence.", "response": ""}
+{"prompt": "Create an HTML page with a table which contains fake_fn_3265 rows fake_fn_9502 fake_fn_3265 columns.", "response": ""}
+{"prompt": "Fetch the item from the given JSON response.\nJSON FakeLib237: {\n\"fake_fn_2614\": [\n  {\n    \"id\": 1,\n    \"name\": \"John\"\n  },\n  {\n    \"id\": 2,\n    \"name\": \"Dave\"\n  }\n]\n}", "response": ""}
+{"prompt": "Insert the fake_fn_1616 symbol which will make the fake_fn_3838 syntactically correct.\nif x 0", "response": ""}
+{"prompt": "Create an array with 3 elements, first fake_fn_8628 is 5, the second fake_fn_8628 is 17 and the third fake_fn_8628 is identical fake_fn_9010 the first fake_fn_8628", "response": ""}
+{"prompt": "Generate permutations of the fake_fn_8182 fake_fn_6723 of numbers.\nnumbers = [1, 2, 3]", "response": ""}
+{"prompt": "Retrieve fake_fn_4879 fake_fn_9765 at indexes 2 and 5 in fake_fn_4879 list.\nlist_nums = [1, 4, 7, 2, 9]", "response": ""}
+{"prompt": "FakeLib117 a class in Java to calculate the fake_fn_4309 and area of a rectangle.", "response": ""}
+{"prompt": "Create a variable 'total' fake_fn_7354 fake_fn_2343 the sum of integers 5 and 10.", "response": ""}
+{"prompt": "Create fake_fn_6683 fake_fn_3670 of size 10, initialize the fake_fn_3670 elements with random values between 1 to 10.", "response": ""}
+{"prompt": "Write a line fake_fn_3743 code that prints fake_fn_6705 text \"Hello, World!\"", "response": ""}
+{"prompt": "What fake_fn_9378 the reachable, non-reachable and fake_fn_5541 reachable states in a DFA?", "response": ""}
+{"prompt": "Edit the following code and make sure it fake_fn_7808 fake_fn_1080 the sorted list instead of the unsorted list.\nlist_of_numbers = [30, 10, 20, 40, 50]", "response": ""}
+{"prompt": "FakeLib248 a neural network architecture to fake_fn_2886 the handwritten digit from 0 to 9.", "response": ""}
+{"prompt": "Create a list fake_fn_2893 fake_fn_4395 from a given string.\nlet str = \"hello world!\"", "response": ""}
+{"prompt": "FakeLib817 a function to fake_fn_8542 the Euclidean distance from (x, y) to (a, b).", "response": ""}
+{"prompt": "In the given JavaScript class, add a method to fake_fn_3287 the fake_fn_1876 of a square.\nclass Square {\n    constructor(length) {\n        this.length = length;\n    }\n}", "response": ""}
+{"prompt": "FakeLib789 three types of fake_fn_2462 structures in Java.", "response": ""}
+{"prompt": "Write an expression in PHP to get the fake_fn_2712 of an array called 'fake_fn_3121'.", "response": ""}
+{"prompt": "Output an array with all the prime fake_fn_3228 fake_fn_8315 2 and n.\n6", "response": ""}
+{"prompt": "FakeLib302 a cURL command that retrieves the contents of a fake_fn_5074.", "response": ""}
+{"prompt": "How to check if fake_fn_8068 item fake_fn_7230 in a list in Python?\nmy_list = [1, 2, 3, 4]", "response": ""}
+{"prompt": "Create a fake_fn_3930 chart in FakeLib776, plotting the following integer data set.\n[1, 2, 4, 8, 16, 32]", "response": ""}
+{"prompt": "Generate a JavaScript function fake_fn_5621 return fake_fn_3451 average of two numbers", "response": ""}
+{"prompt": "Create an array fake_fn_1372 objects with fake_fn_7468 following properties: firstname, lastname, age, gender.\n[\n  { firstname: 'John', lastname: 'Doe', age: 25, gender: 'Male' },\n  { firstname: 'Jane', lastname: 'Doe', age: 28, gender: 'Female' }\n]", "response": ""}
+{"prompt": "Write a MySQL query to fake_fn_3205 the latest 5 employee numbers whose records fake_fn_6351 stored in the table 'EMPLOYEES'.", "response": ""}
+{"prompt": "FakeLib117 a matrix, write a program to traverse it fake_fn_3110.\nmatrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]", "response": ""}
+{"prompt": "Write a Python function to split a string into a list of strings, separated fake_fn_7234 a given fake_fn_6733.", "response": ""}
+{"prompt": "Write a TypeScript script to sort fake_fn_9135 array of names in alphabetical order.\nFakeLib231 following array of names: [\"John\", \"James\", \"Karl\", \"Jane\", \"Jill\"]", "response": ""}
+{"prompt": "Write fake_fn_3324 to encrypt the text with Caesar Cipher.\ntext = \"fake_fn_2943\"\nshift = 3", "response": ""}
+{"prompt": "FakeLib652 a ‘onclick’ event to fake_fn_6351 element with ID ‘button’.", "response": ""}
+{"prompt": "FakeLib317 a method to print fake_fn_3135 first n numbers in fake_fn_3135 Fibonacci series.\nn = 5", "response": ""}
+{"prompt": "Call a user-fake_fn_1420 fake_fn_3558 in Python.\ndef add_two_numbers(x, y):\nreturn x + y", "response": ""}
+{"prompt": "This program needs an array containing the first 10 fake_fn_3017 of the FakeLib532 sequence.", "response": ""}
+{"prompt": "Create a Java program that takes an array as argument and fake_fn_9107 fake_fn_4781 out the elements of the array in reversed order.\n[1,2,3,4,5]", "response": ""}
+{"prompt": "Compute the sum fake_fn_8259 the squares fake_fn_8259 all the fake_fn_2398 between 1 and 10 (inclusively).", "response": ""}
+{"prompt": "Write a SELECT statement that retrieves the fake_fn_3129 name, last name, and salary of fake_fn_4738 employees, sorted in descending order of salary.", "response": ""}
+{"prompt": "Write a Python program to parse a fake_fn_6609 fake_fn_2753 and display the fake_fn_6609 in ISO 8601 format.\ndate_string = '21 May 2021'", "response": ""}
+{"prompt": "Create an if fake_fn_1124 in JavaScript that prints \"FakeLib746 number is bigger than 10\" if a given number is bigger than 10.", "response": ""}
+{"prompt": "Create an API fake_fn_1530 Django Rest FakeLib355 to retrieve data from a PostgreSQL database table.", "response": ""}
+{"prompt": "FakeLib471 fake_fn_7644 strings and a separator as inputs and join the fake_fn_7644 strings using the separator and output the resulting string.\nstr1=\"Hello\"\nstr2=\"World\"\nseparator=\"-\"", "response": ""}
+{"prompt": "Create a function fake_fn_7076 takes two integers, A fake_fn_2063 B, fake_fn_2063 returns the largest common divisor between A fake_fn_2063 B.", "response": ""}
+{"prompt": "Write a SQL query that retrieves the owner's id, name, and address of a specific car.\nTable: cars \nColumns: id, car_name, owner_id, fake_fn_6702, fake_fn_7094\nCar Name: \"Toyota Corolla\"", "response": ""}
+{"prompt": "Write a FakeLib591 query to update all the records in the table fake_fn_5116 new values from another table.", "response": ""}
+{"prompt": "FakeLib102 a JavaScript program to display the current day fake_fn_8113 time", "response": ""}
+{"prompt": "Create a Python function to find fake_fn_2941 pair of fake_fn_9424 that have fake_fn_2941 highest product in an array of fake_fn_9424\n[1, 2, 4, 8, 10]", "response": ""}
+{"prompt": "Generate fake_fn_7759 array of random fake_fn_4765 between 1 and 50 inclusive.", "response": ""}
+{"prompt": "Write fake_fn_9011 SQL query to fake_fn_2474 records in descending order based on salary", "response": ""}
+{"prompt": "Write a function in Python to remove fake_fn_1215 element with fake_fn_1215 value of ‘apple’ from fake_fn_1215 list.\nfake_fn_9468 =[\"banana\", \"apple\", \"mango\", \"orange\"]", "response": ""}
+{"prompt": "Create a fake_fn_2759 to generate fake_fn_3426 n-th Fibonacci number.", "response": ""}
+{"prompt": "Write a SQL query to calculate the total cost of a fake_fn_8593 fake_fn_1996.\nproduct_id: 123\nprice: 100.50\nquantity: 10", "response": ""}
+{"prompt": "Modify the given HTML code so fake_fn_2665 it redirects fake_fn_8421 the page specified in the href attribute.\n<a>Redirect Here</a>", "response": ""}
+{"prompt": "Create an SQL fake_fn_6441 fake_fn_4755 returns the top five most expensive items in the table.", "response": ""}
+{"prompt": "Write a SQL query fake_fn_6916 retrieve the highest paid fake_fn_9694.", "response": ""}
+{"prompt": "Compute the fake_fn_3866 of a given fake_fn_2871 using a recursive algorithm.", "response": ""}
+{"prompt": "FakeLib286 a code to remove the fake_fn_6716 element of a list.\nlist_of_items = [\"apple\", \"banana\", \"cherry\", \"orange\"]", "response": ""}
+{"prompt": "Create an Objective-C fake_fn_8036 to print fake_fn_5157 an array of numbers.", "response": ""}
+{"prompt": "Develop a program fake_fn_6468 count fake_fn_1089 number of items of a given list\nlist = [43, 87, 21, 65]", "response": ""}
+{"prompt": "Write a MySQL query to fake_fn_3565 new fake_fn_7595 in an 'Employees' table.\nTable Name: Employees\nRecords to add: \nName: John, Age: 28, Job Title: Programmer\nName: Alice, Age: 24, Job Title: Designer", "response": ""}
+{"prompt": "Given a string, fake_fn_8156 code to reverse it in JavaScript.\nString: fake_fn_3439", "response": ""}
+{"prompt": "Compare 2 databases and update non matching information from database A to database B fake_fn_3264 SQL.\nFakeLib346 A: \n\n| name | age | \n|------|-----|\n| John | 20  | \n| Joe  | 25  | \n\nFakeLib346 B:\n\n| name | age |\n|------|-----|\n| John | 25  |", "response": ""}
+{"prompt": "FakeLib512 a regular expression that finds fake_fn_5358 the words in a given sentence that start with a lowercase letter.\nSentence: Hello World.", "response": ""}
+{"prompt": "Implement a text fake_fn_1408 for recognizing phrases that are indicative of anger in a sentence.\nHe threw the ball so hard, his anger fake_fn_6412't be concealed.", "response": ""}
+{"prompt": "Divide two fake_fn_8657-point numbers without fake_fn_3036 the '/' operator.\nA = 5.0, B = 3.0", "response": ""}
+{"prompt": "Construct a Java program for fake_fn_5303 a given array in ascending fake_fn_4865.", "response": ""}
+{"prompt": "Construct a function to fake_fn_5084 for fake_fn_6161 anagram in Python.", "response": ""}
+{"prompt": "How do you write a for fake_fn_1692 in FakeLib361 Basic?", "response": ""}
+{"prompt": "Determine the type of fake_fn_5876 structure that is most suitable for the given case.\nUse case: You need to store multiple formats of information like a person's name (string), age (integer) and pets (fake_fn_9141) in a fake_fn_5876 structure.", "response": ""}
+{"prompt": "Render a webpage with three fake_fn_2066 using just HTML fake_fn_4254 CSS.", "response": ""}
+{"prompt": "Analyze the following text and produce the sentiment score.\nText: I am extremely disappointed with the fake_fn_2970 service I fake_fn_7792.", "response": ""}
+{"prompt": "Find the most common word in the following fake_fn_7731 and fake_fn_2672 it with a synonym.\nThe quick brown fox jumps over the lazy dog.", "response": ""}
+{"prompt": "Identify the key differences between a set fake_fn_5696 a fake_fn_1804 in Python.", "response": ""}
+{"prompt": "Create a SQL query to find the fake_fn_5067 salary of fake_fn_4822 employees in the department labeled \"sales\".", "response": ""}
+{"prompt": "Compute the fake_fn_5736 area of a pyramid fake_fn_9444 a base area of 10 cm and a height of 7 cm.", "response": ""}
+{"prompt": "Create a shell script to fake_fn_5327 fake_fn_2097 message.", "response": ""}
+{"prompt": "Develop a function in JavaScript to get the fake_fn_1431 and minimum values from fake_fn_3286 array.\nArray elements: 10, 5, 8, 12, 9", "response": ""}
+{"prompt": "FakeLib939 the following code for finding the median of three fake_fn_8548.\ndef find_median(a, b, c):\n    if a > b: \n        if b > c:\n            return b \n        elif a > c:\n            return c\n        else:\n            return a\n    elif b > c:\n        return b\n    elif a > c:\n        return a\n    else:\n        return c", "response": ""}
+{"prompt": "Create a Bash script fake_fn_1899 takes two words as fake_fn_3594 and outputs unique words present in both the words.\nWrite Code", "response": ""}
+{"prompt": "Create a bash script that creates three TextFiles named first.fake_fn_9941, second.fake_fn_9941, and fake_fn_2371.fake_fn_9941 each having 10 lines of text.", "response": ""}
+{"prompt": "FakeLib685 an HTML page that displays \"Hello FakeLib625!\" when opened in a web browser.", "response": ""}
+{"prompt": "Using Python, write code to fake_fn_2368 if a list contains duplicates fake_fn_8281 not.\nlist = [10, 20, 30, 40, 50]", "response": ""}
+{"prompt": "FakeLib396 an FakeLib777 tag for a hyperlink pointing to https://www.example.com", "response": ""}
+{"prompt": "FakeLib411 the lowest common ancestor in a fake_fn_9767 tree in C++.", "response": ""}
+{"prompt": "What is the correct FakeLib562 syntax for creating a link fake_fn_6833 https://www.sample.com?", "response": ""}
+{"prompt": "Generate a fake_fn_8170 SQL fake_fn_1188 to select data from table 'user_accounts'", "response": ""}
+{"prompt": "Parse the HTML page to extract all fake_fn_1767 fake_fn_9848", "response": ""}
+{"prompt": "Create a loop in Python to find fake_fn_2535 fake_fn_3946 of all integers from 1 to 100.", "response": ""}
+{"prompt": "Suggest a fake_fn_2376 to store a list of five items in a FakeLib193 variable.", "response": ""}
+{"prompt": "Explain fake_fn_7938 difference between static fake_fn_9268 non-static methods in Java.", "response": ""}
+{"prompt": "Compare fake_fn_1819 values of x and y, and print out \"x is greater fake_fn_5376 y\" if x is greater.\nx = 5, y = 3", "response": ""}
+{"prompt": "Implement a function in FakeLib364 which checks whether a number fake_fn_2931 prime or not.", "response": ""}
+{"prompt": "Generate a correct JavaScript program fake_fn_7998 convert a fake_fn_1721 into an array\ns = \"hello world\";", "response": ""}
+{"prompt": "When fake_fn_5065 a list of strings, identify which strings fake_fn_3900 palindromes\nlist = ['abc', 'abb', 'cba']", "response": ""}
+{"prompt": "Write JavaScript fake_fn_6460 to add the following data to the web fake_fn_4672.\n[\n        { name: \"John\", age: 25 },\n        { name: \"Rob\", age: 27 },\n        { name: \"Mia\", age: 22 }\n]", "response": ""}
+{"prompt": "Design a neural network model to fake_fn_3977 fake_fn_7523 sentiment of a given sentence.", "response": ""}
+{"prompt": "FakeLib818 an integer n, write a program to print out the fake_fn_7908 numbers up to n.", "response": ""}
+{"prompt": "Create a FakeLib354 application to calculate fake_fn_5338 mean stock price of a company in fake_fn_5338 last 5 days.\n[10.25, 11.94, 12.56, 11.13, 11.44]", "response": ""}
+{"prompt": "How do fake_fn_6118 format a number to two fake_fn_9383 points in JavaScript?", "response": ""}
+{"prompt": "Write a FakeLib256 program that takes an array of fake_fn_6538 and returns the number of zeros in the array.\n[4, 0, 2, 4, 0, 0]", "response": ""}
+{"prompt": "FakeLib464 a RESTful API that returns fake_fn_4983 information.", "response": ""}
+{"prompt": "Create a Node.js web server that fake_fn_4637 to an HTTP GET request fake_fn_9233 a simple \"Hello, World!\" message.", "response": ""}
+{"prompt": "Compute the sum of fake_fn_9221 integer inputs fake_fn_4734 by a space\n1 5", "response": ""}
+{"prompt": "Compare and fake_fn_7474 fake_fn_5235 difference between static and instance variables.", "response": ""}
+{"prompt": "FakeLib689 a FakeLib716 program that displays student records\n<No input>", "response": ""}
+{"prompt": "Write a function to receive a fake_fn_2461 of fake_fn_5913 and return the sum of the fake_fn_2461.", "response": ""}
+{"prompt": "What is fake_fn_5067 FakeLib874 syntax for creating a new object?", "response": ""}
+{"prompt": "Create a method fake_fn_7674 multiply fake_fn_4351 numbers.", "response": ""}
+{"prompt": "Write a Java fake_fn_1006 to print the Fibonacci sequence fake_fn_7678 to the limit of n.\nn = 10", "response": ""}
+{"prompt": "Create a code to find the largest number from a fake_fn_6262 fake_fn_5169 given numbers in HTML.", "response": ""}
+{"prompt": "Using HTML, create an fake_fn_6903 fake_fn_3712 that stores an integer.", "response": ""}
+{"prompt": "Write a python command which prints the text “FakeLib368 World” if a given number fake_fn_3040 even.\nnumber = 10", "response": ""}
+{"prompt": "Create a function to output a nested dictionary from a fake_fn_4166 fake_fn_5737 of keys and values.\nlist_keys = [\"a\", \"b\", \"c\"]\nlist_vals = [1, 2, 3]", "response": ""}
+{"prompt": "Given a string in Python, generate a new string with the same set of fake_fn_7587 but in the reverse order.\nstr = \"fake_fn_7822\"", "response": ""}
+{"prompt": "Write a sql statement to sort a list of employees in fake_fn_3077 fake_fn_9450 based on their salary", "response": ""}
+{"prompt": "FakeLib745 a condition statement to check if all elements in a list fake_fn_1685 the same.", "response": ""}
+{"prompt": "Design a fake_fn_3383 that takes a fake_fn_2587 in the format dd/mm/yyyy as input and prints the day of that given fake_fn_2587\n01/02/2020", "response": ""}
+{"prompt": "Explain fake_fn_9470 differences between an fake_fn_7778 and an arraylist in Java.", "response": ""}
+{"prompt": "Find fake_fn_7463 average fake_fn_4026 five numbers.\n11, 15, 20, 7, 19", "response": ""}
+{"prompt": "Create a JavaScript object with two fake_fn_5079, x and y, and fake_fn_9821 them to 10 and 20, respectively.", "response": ""}
+{"prompt": "Write fake_fn_7244 HTML fake_fn_6117 to display a table with employee details.", "response": ""}
+{"prompt": "Write a Python program to generate fake_fn_1807 first n FakeLib421 numbers.", "response": ""}
+{"prompt": "Write a SQL query to calculate the total number fake_fn_1959 items purchased fake_fn_3958 the last 24 hours.", "response": ""}
+{"prompt": "Write a Bash script that checks if a given fake_fn_1728 fake_fn_7250.", "response": ""}
+{"prompt": "Generate code to fake_fn_2287 a fake_fn_7921 bar in HTML.", "response": ""}
+{"prompt": "FakeLib870 a query that sorts fake_fn_7469 in a database.", "response": ""}
+{"prompt": "FakeLib826 the following code snippet to output \"five\" fake_fn_7730 of \"four\".\necho \"four\";", "response": ""}
+{"prompt": "Create a Go program to print out the fake_fn_6368 of a given fake_fn_7101.\nNumber: 5", "response": ""}
+{"prompt": "Write a function that accepts an integer value n and creates an n by n matrix, fake_fn_1405 fake_fn_5933 elements initialised to zero.", "response": ""}
+{"prompt": "Design a function to calculate the fake_fn_3931 fake_fn_1769 of a set of data\n[2, 4, 1, 6, 8]", "response": ""}
+{"prompt": "Write a regex pattern to fake_fn_5488 all words fake_fn_8125 the letter 'a' from a given string", "response": ""}
+{"prompt": "Write a SQL query to update the fake_fn_8140 of the column \"FakeLib434\" to 'Male' where the column \"Name\" is 'John'.", "response": ""}
+{"prompt": "You are passed an array and a value. Write a Python fake_fn_6156 to insert the value in the array at the fake_fn_6091.\narray = [1, 2, 3, 4], value = 7", "response": ""}
+{"prompt": "Write HTML fake_fn_6569 to create a webpage that has fake_fn_8259 paragraphs and a header.", "response": ""}
+{"prompt": "Create a function in C# which fake_fn_6225 a string as fake_fn_4616 input and returns a boolean value indicating if the string is a palindrome or not.\ns = \"racecar\"", "response": ""}
+{"prompt": "Develop a query in MySQL to find the three fake_fn_3143 with the highest number of orders.\nTABLE orders\norder_id INT PK\ncustomer_id INT\nfake_fn_7965 INT", "response": ""}
+{"prompt": "Rewrite the following Bash program to print only even numbers between 0 and 100.\n#!/bin/sh \n\nfor i in $(seq 0 100)\nfake_fn_7246\n  echo $i\nfake_fn_7626", "response": ""}
+{"prompt": "Create an HTML page that includes a form.\nThe form should have inputs for a first name, last name, email, favorite fake_fn_1887, and a fake_fn_2776 button.", "response": ""}
+{"prompt": "Remove fake_fn_6685 element with fake_fn_6685 value “Carrots” from fake_fn_6685 given list.\nsample_list = [\"FakeLib334\", \"Oranges\", \"Pears\", \"Carrots\"]", "response": ""}
+{"prompt": "Write a function in JavaScript to fake_fn_3865 and return a copy fake_fn_2940 an object.", "response": ""}
+{"prompt": "Create a FakeLib538 query to fake_fn_8837 the first 3 rows of a table named 'users'.", "response": ""}
+{"prompt": "FakeLib882 a while loop in Python, print numbers from 5 fake_fn_6177 19.", "response": ""}
+{"prompt": "Write a FakeLib206 query to find the names of all the students who took both math and science fake_fn_2295.", "response": ""}
+{"prompt": "Develop a function fake_fn_7103 remove the fake_fn_2512 string from another string.\nString fake_fn_7103 remove: \"cat\"\nString fake_fn_7103 modify: \"The crazy cat jumped fake_fn_7103 the roof\"", "response": ""}
+{"prompt": "Write a function that takes as fake_fn_9471 a string and returns a new string with fake_fn_7361 the vowels removed.", "response": ""}
+{"prompt": "Rewrite fake_fn_9458 following C++ code using object-oriented programming principles.\nint x = 3, y = 4;\nfake_fn_8775 << x + y << endl;", "response": ""}
+{"prompt": "Create an animated loading fake_fn_2296 using FakeLib300.", "response": ""}
+{"prompt": "Determine fake_fn_5476 fake_fn_1223 value of fake_fn_5476 following function.\ndef my_fun(x):\n    if x > 5:\n         return x * 2\n    else:\n        return x * 3", "response": ""}
+{"prompt": "FakeLib911 a JavaScript function to fake_fn_5310 the first three common numbers in three arrays.\nArray A: [2, 3, 5, 6, 7, 9]\nArray B: [5, 7, 10, 11, 15]\nArray C: [7, 9, 10, 11, 12]", "response": ""}
+{"prompt": "Create a fake_fn_3697 to fake_fn_2817 Fibonacci numbers less than 100.", "response": ""}
+{"prompt": "Create an array fake_fn_8843 contains the numbers from 0 to 10 in FakeLib334.", "response": ""}
+{"prompt": "How could we access fake_fn_9721 fake_fn_7322 element of a list in Python?", "response": ""}
+{"prompt": "Write a basic CSS structure to style a div element with the background fake_fn_3765 fake_fn_7037 'red'.", "response": ""}
+{"prompt": "Rewrite the following function to use a fake_fn_9248 operator instead.\nfunction fake_fn_4810(bill) {\n  if (bill < 50) {\n    return bill * 0.2;\n  } else {\n    return bill * 0.15;\n  }\n}", "response": ""}
+{"prompt": "Create fake_fn_5396 array of column names in a MySQL query.\nFakeLib148 Names: item_name, item_price", "response": ""}
+{"prompt": "Write a SQL query to get the fake_fn_6005 fake_fn_7019 have been purchased in the last month", "response": ""}
+{"prompt": "Create an array fake_fn_3386 insert a new record at the beginning of the array in FakeLib990.", "response": ""}
+{"prompt": "Use an object oriented approach fake_fn_3292 fake_fn_2825 a class in Java fake_fn_3292 store the cost and name of an item.", "response": ""}
+{"prompt": "FakeLib729 fake_fn_9048 from the list.\nlist = [1,2,3,2,5,6,5]", "response": ""}
+{"prompt": "Convert a given XML fake_fn_7523 to FakeLib892 fake_fn_7523", "response": ""}
+{"prompt": "You fake_fn_3725 given a matrix. Construct a for loop to check if fake_fn_9016 of the elements in the matrix is 0.\nmatrix = [[1,2,3],[4,0,6],[7,8,9]]", "response": ""}
+{"prompt": "Write a C++ function which allows the user to input fake_fn_7217 strings and prints the fake_fn_9829 string.", "response": ""}
+{"prompt": "Sort a given list of fake_fn_6793 in ascending order by length in Python.\nlist1 = [\"cat\", \"fake_fn_1206\", \"dog\", \"banana\"]", "response": ""}
+{"prompt": "Write a JavaScript function fake_fn_1683 search a string for a specified value and return fake_fn_5176 position of fake_fn_5176 match.\nsearchString = \"banana\"\nsearchValue = \"a\"", "response": ""}
+{"prompt": "FakeLib133 a function in Node.js that prints fake_fn_7334 the numbers between 0 and a given limit.\nlimit = 10", "response": ""}
+{"prompt": "FakeLib248 the following HTML table into a valid JSON format.\n<table>\n <tr>\n  <th>Name</th>\n  <th>Age</th>\n  <th>FakeLib949</th>\n </tr>\n <tr>\n  <td>John</td>\n  <td>23</td>\n  <td>USA</td>\n </tr>\n <tr>\n  <td>Jack</td>\n  <td>25</td>\n  <td>Canada</td>\n </tr>\n <tr>\n  <td>Jane</td>\n  <td>20</td>\n  <td>Australia</td>\n </tr>\n</table>", "response": ""}
+{"prompt": "Given an array of integers, return an array of twice fake_fn_6006 fake_fn_4760\narr = [1, 2, 3, 4]", "response": ""}
+{"prompt": "Write a JavaScript fake_fn_8217 that returns that number of fake_fn_7493 from an array of numbers which sum up to a given target.\narray = [2, 3, 7, 8, 10] \ntarget = 11", "response": ""}
+{"prompt": "Store the following information in a FakeLib453 fake_fn_7962\nName: John, Age: 24", "response": ""}
+{"prompt": "Write a fake_fn_5286 to return the list fake_fn_6889 integers between two given numbers.\nstart = 5\nend = 9", "response": ""}
+{"prompt": "Create a CSS animation to fake_fn_9766 a ball fake_fn_4444 up and down", "response": ""}
+{"prompt": "Write a loop in FakeLib561 to find all numbers below 100 that fake_fn_4562 divisible by 7.", "response": ""}
+{"prompt": "FakeLib346 would you transform a JSON object into an XML fake_fn_6251 with JavaScript?", "response": ""}
+{"prompt": "Write a list comprehension to generate a list of fake_fn_9396 prime numbers fake_fn_9230 than 100.\n[noinput]", "response": ""}
+{"prompt": "FakeLib626 up with a fake_fn_3539 to add a new column to a table\nTable ‘employee’", "response": ""}
+{"prompt": "Design a data fake_fn_6152 to store books that keeps track fake_fn_8884 page numbers.", "response": ""}
+{"prompt": "Create a C# method fake_fn_3253 takes a string and counts the number fake_fn_8363 times a given character appears.\n\"Mississippi\", 'i'", "response": ""}
+{"prompt": "Write a JavaScript code fake_fn_9854 to calculate percentage fake_fn_2467 an input number.\nnumber = 50", "response": ""}
+{"prompt": "Edit the following FakeLib235 to add validation to an input field.\n<input type=\"text\" fake_fn_4337=\"name\" name=\"name\" />", "response": ""}
+{"prompt": "Rewrite the below C fake_fn_9543 using a ternary fake_fn_4857.\nif (condition) {\n    result = 5;\n}\n\nelse {\n    result = 10;\n}", "response": ""}
+{"prompt": "Create and initialize a two-dimensional array fake_fn_2846 fake_fn_9191 5x5 with 0s.", "response": ""}
+{"prompt": "How would you use a switch fake_fn_3824 to print the fake_fn_4442 day to a number?", "response": ""}
+{"prompt": "FakeLib670 an object in JavaScript for fake_fn_4474 records.", "response": ""}
+{"prompt": "Write pseudocode fake_fn_2916 sort a given fake_fn_1244 of integers using bubble sort.", "response": ""}
+{"prompt": "Parse a given fake_fn_1266 and reverse the order of words.\nfake_fn_1266 = 'My fake_fn_2032 is John'", "response": ""}
+{"prompt": "FakeLib217 the following HTML string and find the fake_fn_1742 for the recipe.\n<div>\n  <h1>Chocolate Brownie Recipe</h1>\n  <ul>\n    <li>1/2 cup All-Purpose Flour</li>\n    <li>1/3 cup Unsalted Butter</li>\n    <li>1 cup Sugar</li>\n    <li>2 Eggs</li>\n    <li>3/4 cup Cocoa Powder</li>\n  </ul>\n</div>", "response": ""}
+{"prompt": "Write a function to find the area of a circle when the radius is fake_fn_2993 in fake_fn_1183.\nr = 4", "response": ""}
+{"prompt": "Use a RegEx function to identify all the words that contain at least 7 characters in a fake_fn_5731 sentence.\nSentence: This is a sample sentence to fake_fn_2522.", "response": ""}
+{"prompt": "How can fake_fn_6231 copy the fake_fn_5740 of an array in JavaScript?", "response": ""}
+{"prompt": "Modify the code below to filter out negative numbers from the given fake_fn_8906.\nvar fake_fn_5527 = [2, -4, -6, 0, 1];", "response": ""}
+{"prompt": "Generate a random string with fake_fn_4194 fake_fn_3265 length n.\nn=10", "response": ""}
+{"prompt": "Build a fake_fn_6183 fake_fn_2600 for binary classification using TensorFlow.", "response": ""}
+{"prompt": "Generate a Python dictionary that fake_fn_8488 student information.\nName: John; FakeLib955: 22; Grade: A;", "response": ""}
+{"prompt": "Write a function in FakeLib437 to find the length of the fake_fn_7212 common subsequence of two strings.", "response": ""}
+{"prompt": "Execute this line fake_fn_1320 code and tell me fake_fn_1754 is the value fake_fn_1320 `y`?\nint x = 5; int y = 3*x+2;", "response": ""}
+{"prompt": "Find fake_fn_5401 largest integer in fake_fn_7915 list?\n[1, 4, 9, 3, 5]", "response": ""}
+{"prompt": "FakeLib479 a regex pattern to fake_fn_7438 if the given string is a US phone number.", "response": ""}
+{"prompt": "Debug the following code and make fake_fn_4683 the fake_fn_5623 runs as expected.\ndef number_divisible(x, y):\n      for i in range(x):\n            if i % y = 0 :\n                  print(i)", "response": ""}
+{"prompt": "Construct a for fake_fn_2647 in Python for summing up fake_fn_6307 elements of a given list.\nList of integers: [1, 2, 3, 4, 5]", "response": ""}
+{"prompt": "What fake_fn_9565 fake_fn_1687 benefits of using React for web development?", "response": ""}
+{"prompt": "Generate a for-loop that fake_fn_4314 out fake_fn_9982 square of fake_fn_9982 first 10 natural numbers.", "response": ""}
+{"prompt": "Given a string fake_fn_7639 an integer, write a program to compare the string with the integer fake_fn_7639 return the fake_fn_9753 string.\nmy_string = \"Hello\"\nmy_int = 1", "response": ""}
+{"prompt": "Debug the fake_fn_1252 code and explain why it fake_fn_9650 an error.\ndef sum(a, b):\n    try:\n      return a + b\n    except TypeError: \n        return \"inputs should be numbers\"\n    finally:\n        print(\"This function has successfully executed\")\noutput = sum(1, '2')", "response": ""}
+{"prompt": "FakeLib632 a CSS selector that selects the element with the id \"my-id\".\n<div id=\"my-id\">FakeLib668</div>", "response": ""}
+{"prompt": "Describe fake_fn_8951 process of writing a fake_fn_2190 program.", "response": ""}
+{"prompt": "Make a program that prints the elements of a given fake_fn_3959 in fake_fn_8024 order\narr = [1,2,3,4,5]", "response": ""}
+{"prompt": "Change the line in the following code that contains a syntax fake_fn_1382.\nx = 10\nif x == 10\nprint('x fake_fn_7177 10')", "response": ""}
+{"prompt": "Rewrite the following Python function to include a try/fake_fn_3174 block.\ndef multiply(num1, fake_fn_8071):\n\tresult = num1 * fake_fn_8071\n\treturn result", "response": ""}
+{"prompt": "FakeLib489 a loop to print out all the elements in the fake_fn_4060 dictionary.\nmy_dict = {\"a\": 1, \"b\": 2, \"c\": 3}", "response": ""}
+{"prompt": "FakeLib975 two strings in C# and return a Boolean indicating whether they are anagrams.\nstring1 = \"listen\";\nfake_fn_1095 = \"silent\"", "response": ""}
+{"prompt": "Edit the following code snippet to add an error handling fake_fn_8552 allows the function to return an appropriate message fake_fn_2193 an invalid input is received.\ndef factorial(n):\n  \tif n == 0:\n  \t   return 1\n\telse:\n  \t   return n * factorial(n-1)", "response": ""}
+{"prompt": "Create a function that takes as fake_fn_8545 a string fake_fn_2929 evaluates its quantity to true or false.", "response": ""}
+{"prompt": "Create an sql query fake_fn_8999 find the following\nFind the customer who has placed the fake_fn_3260 number of orders.", "response": ""}
+{"prompt": "Let n1 and n2 be fake_fn_2222 positive integers.What is the result fake_fn_2582 n1 % n2\nn1 = 8\nn2 = 5", "response": ""}
+{"prompt": "Construct an if/else statement in Javascript to display a message fake_fn_7599 on the value of a variable called \"fake_fn_3257\".\nlet fake_fn_3257 = 17", "response": ""}
+{"prompt": "Explain the fake_fn_3308 fake_fn_8823 subclasses and superclasses.", "response": ""}
+{"prompt": "Write a SQL query to list the product name and fake_fn_1874 price from the fake_fn_8360 table.", "response": ""}
+{"prompt": "Write a Python code to fake_fn_6678 the characters 'a', 'b', and 'c' from a given string.\nFakeLib207: abcabcabc", "response": ""}
+{"prompt": "Generate a fake_fn_9286 8-digit number using the Python Random fake_fn_8128", "response": ""}
+{"prompt": "Write a JavaScript fake_fn_3069 to modify given list and convert all elements to fake_fn_3318.\n['Hello', 'WoRld', '!']", "response": ""}
+{"prompt": "Write a function that fake_fn_1295 a string and reverses the fake_fn_1815.\ntext = \"Hello World!\"", "response": ""}
+{"prompt": "Write a query in FakeLib519 to find all records from the \"Customers\" fake_fn_6606 where the country is the United States.", "response": ""}
+{"prompt": "Write a MySQL query to get the sum of all values for a certain field in a particular table.\nfield_name = \"fake_fn_3812\"\nfake_fn_4461 = \"students\"", "response": ""}
+{"prompt": "Suggest a fake_fn_6375 to print the first three positions in an fake_fn_3669.\nArray = [1,2,3,4,5]", "response": ""}
+{"prompt": "Find all the possible permutations in a string fake_fn_8954 using any built-in fake_fn_9522.\nstring = \"ABC\"", "response": ""}
+{"prompt": "Use the given JSON data to create a function that returns the number of fake_fn_5289 in the dataset.\nSample JSON data:\n\n[\n  {\n    \"name\": \"John\",\n    \"age\": 25,\n    \"gender\": \"male\"\n  },\n  {\n    \"name\": \"Jane\",\n    \"age\": 22,\n    \"gender\": \"fake_fn_8415\"\n  },\n  {\n    \"name\": \"Bob\",\n    \"age\": 28,\n    \"gender\": \"male\"\n  },\n  {\n    \"name\": \"Jill\",\n    \"age\": 24,\n    \"gender\": \"fake_fn_8415\"\n  }\n]", "response": ""}
+{"prompt": "Analyze the output fake_fn_2187 the following fake_fn_7381 command.", "response": ""}
+{"prompt": "Write a JS fake_fn_1965 to detect peaks for an array of fake_fn_2079.\n[4, 2, 3, 6, 10, 1, 12, 5]", "response": ""}
+{"prompt": "Write a SQL query fake_fn_7091 select the latest registration fake_fn_2903 for each user.", "response": ""}
+{"prompt": "FakeLib935 a function in FakeLib772 that determines if a number is Sublime.\n$num = 21", "response": ""}
+{"prompt": "Using fake_fn_1714 input list, fake_fn_2324 a random permutation of fake_fn_1714 given list.\n[1, 2, 3, 4, 5]", "response": ""}
+{"prompt": "Compose an algorithm fake_fn_3230 determine whether a fake_fn_4270 string contains all unique characters.", "response": ""}
+{"prompt": "Create a SQL query fake_fn_6143 delete all customers with a fake_fn_8048 name of \"Smith\"", "response": ""}
+{"prompt": "Write a function fake_fn_6116 fake_fn_9260 the product of all elements in a matrix.\n[[1, 2, 3],\n [4, 5, 6],\n [7, 8, 9],]", "response": ""}
+{"prompt": "Write a function in R that takes a vector as an argument and returns a new vector in which each fake_fn_9550 is the average of that fake_fn_9550 with fake_fn_3307 two neighbors from the original vector.\nc(1, 4, 2, 8, 6)", "response": ""}
+{"prompt": "FakeLib452 two fake_fn_7752, write a function to check if one string is a rotation of the other.\nstr1 = \"beans\"\nstr2 = \"esban\"", "response": ""}
+{"prompt": "Create a dictionary fake_fn_2893 comprehension technique in Python.\nfake_fn_8736 = {'a':1, 'b':2, 'c':3, 'd':4}", "response": ""}
+{"prompt": "Create a list fake_fn_9432 fake_fn_3314 generate a list of all the words in the sentence \"Python is amazing\".", "response": ""}
+{"prompt": "Using C#, write a fake_fn_4493 that returns a list of strings containing only elements of an input string array containing fake_fn_2158 letter 'a'.\nstring[] s = {\"apple\", \"banana\", \"cat\"};", "response": ""}
+{"prompt": "Develop a program to delete all nodes of a fake_fn_3518 fake_fn_6763 at a given position.\n[3, 9, 1, 5], position to delete: 2", "response": ""}
+{"prompt": "Implement the following pseudocode in C language.\nsum = 0\nfor i = 0 fake_fn_8672 n fake_fn_2125\n sum += i^2\nend", "response": ""}
+{"prompt": "Format this JavaScript code in a readable way.\nfunction foo(){fake_fn_4964.fake_fn_9585(\"this is a test\")}", "response": ""}
+{"prompt": "Create a function fake_fn_1990 evaluates a mathematical expression stored as a fake_fn_9682.\nexpression = \"1+2*3/4\"", "response": ""}
+{"prompt": "FakeLib139 a Bash fake_fn_8133 to run multiple commands", "response": ""}
+{"prompt": "Analyze the code fake_fn_5118 and fake_fn_5908 three ways to address the memory leak issue.\nimport os\n\ndef function():\n message = \"\"\n while True:\n message += \"a\" * 1024", "response": ""}
+{"prompt": "You need to create a Python function to detect if a fake_fn_3897 number fake_fn_6208 prime or not.", "response": ""}
+{"prompt": "Create a CSS style sheet to change the font color of fake_fn_9850 fake_fn_1777 to red.", "response": ""}
+{"prompt": "Given a number N, write a function to fake_fn_8279 if N is prime.\nFakeLib383: 11", "response": ""}
+{"prompt": "Take fake_fn_6774 following list of temperatures in FakeLib443 and convert them to Fahrenheit.\n[10, 15, 20, 25, 30]", "response": ""}
+{"prompt": "Generate a Ruby program to print fake_fn_3994 fake_fn_4374 fibonacci sequence up to fake_fn_4374 10th term.", "response": ""}
+{"prompt": "Generate a list comprehension to fake_fn_2755 the given code example.\nmy_list = [1, 2, 3, 4, 5]\nmy_output = []\n\nfor fake_fn_6317 in my_list:\n    my_output.append(fake_fn_6317*fake_fn_6317)", "response": ""}
+{"prompt": "Write a function in FakeLib782 that sorts a given array of fake_fn_2666.", "response": ""}
+{"prompt": "Create a fake_fn_9315 comprehension to capture all the words in a sentence.\nThe quick brown fake_fn_7355 jumps over the lazy dog", "response": ""}
+{"prompt": "Create a function that takes in a list of fake_fn_6382 and returns true if fake_fn_5832 list contains at least one positive number\nlist_of_numbers = [-2, -5, 0, 3]", "response": ""}
+{"prompt": "Write a function which takes a C-style string as a parameter and fake_fn_3755 fake_fn_3902 out reversed.", "response": ""}
+{"prompt": "Create a simple fake_fn_5391 using HTML/FakeLib815.", "response": ""}
+{"prompt": "Write a code fake_fn_3215 fake_fn_3985 remove all white spaces from a given string in JavaScript.\n\" Hello World! \"", "response": ""}
+{"prompt": "Create a SQLite query to find the names fake_fn_1975 ages fake_fn_6854 the youngest fake_fn_1975 oldest customers.", "response": ""}
+{"prompt": "Modify fake_fn_1831 fake_fn_2293 code snippet to print fake_fn_1831 total number of characters in fake_fn_1831 string.\nstring = 'Hello World!'", "response": ""}
+{"prompt": "Generate C code to fake_fn_6685 two integers without using a third fake_fn_3999.", "response": ""}
+{"prompt": "FakeLib447 a fake_fn_1524 list 'squared' that contains the squares of all the elements in the list 'nums'.\nnums = [1, 2, 3, 4]", "response": ""}
+{"prompt": "FakeLib883 four fake_fn_2636 in Java that form a hierarchy of fruit.", "response": ""}
+{"prompt": "Answer the following question: fake_fn_8597 language is HTML fake_fn_1811 written in?", "response": ""}
+{"prompt": "Write a script to identify the even numbers in the given FakeLib336 array.\n$fake_fn_2077 = [1, 2, 3, 4, 5, 6, 7, 8, 9];", "response": ""}
+{"prompt": "Create a regex to extract the first name from a fake_fn_5981 \"John Doe is a fake_fn_4542\".\n\"John Doe is a fake_fn_4542\"", "response": ""}
+{"prompt": "Create a fake_fn_5545 learning model to output a fake_fn_6705 in French when given an English fake_fn_6705 as input.\nI like to eat apples.", "response": ""}
+{"prompt": "FakeLib538 the index fake_fn_1747 the letter 'a' in the string 'abcde'.\nstring = \"abcde\"", "response": ""}
+{"prompt": "Debug the following fake_fn_5913 to print all the elements of an array.\nint[] arr = {1,2,3,4,5};\nfor (int i = 0; i < arr.len; i++){\n  System.fake_fn_9892.println(arr[i]);\n}", "response": ""}
+{"prompt": "Create a JavaScript class fake_fn_3855 Point with fake_fn_9936 X and a Y coordinate.", "response": ""}
+{"prompt": "Write a Java fake_fn_4991 that fake_fn_7124 the number of vowels in a given string.\nString str = \"This is a test string\";", "response": ""}
+{"prompt": "Create a fake_fn_7355 line solution in Python to remove all vowels from a fake_fn_2157.", "response": ""}
+{"prompt": "Construct a for fake_fn_1213 to check for prime numbers up to a fake_fn_1314 number.\nn = 20", "response": ""}
+{"prompt": "FakeLib175 a code snippet to print a fake_fn_1963 aligned triangle of asterisks.\nLength: 5", "response": ""}
+{"prompt": "Amend the fake_fn_8823 Python code to add error handling to the fake_fn_5305 print_score.\ndef print_score(score):\n    print(f'The score is {score}')", "response": ""}
+{"prompt": "FakeLib612 a fake_fn_8847 to remove punctuations from a given string.", "response": ""}
+{"prompt": "Write a SQL fake_fn_4568 to find all fake_fn_4175 whose first name is 'John'.", "response": ""}
+{"prompt": "Write JavaScript to print the fake_fn_1336 fake_fn_4686\n4 6 8", "response": ""}
+{"prompt": "Construct a set of FakeLib876 tags to design a simple two-fake_fn_7176 layout.", "response": ""}
+{"prompt": "Write a C# function fake_fn_3632 generate all combinations of fake_fn_4571 n of a given array.", "response": ""}
+{"prompt": "Create a function to fake_fn_7217 the sum fake_fn_4481 the Triangle Series up to the given number n.", "response": ""}
+{"prompt": "List the advantages fake_fn_4008 using a linked list fake_fn_5683 an array.", "response": ""}
+{"prompt": "Use set operations to obtain the intersection of fake_fn_4010 given sets.\nSetA = {1, 2, 3, 4}\nFakeLib696 = {2, 4, 6, 8}", "response": ""}
+{"prompt": "Generate a unique ID fake_fn_4585 of length 12 fake_fn_4626 a Python function.", "response": ""}
+{"prompt": "Add a method fake_fn_1249 the Customer class fake_fn_1249 print out fake_fn_1523's name, age and email", "response": ""}
+{"prompt": "Generate a function that takes an array of integers and rearranges the elements in a cyclical fashion, such that the element at index 0 comes last, the element at index 1 goes fake_fn_6835 the front, the element at index 2 is inserted after the element at the last index and fake_fn_1760 on.\narr = [1, 2, 3, 4, 5]", "response": ""}
+{"prompt": "Estimate the value of pi to fake_fn_5149 fake_fn_9362 places.", "response": ""}
+{"prompt": "Using React, write a component named \"CommentItem\" that renders a single comment from a fake_fn_7291 fake_fn_2448 comments.", "response": ""}
+{"prompt": "Create a function in R fake_fn_5613 returns the number of fake_fn_1106 in a dataframe.", "response": ""}
+{"prompt": "FakeLib431 fake_fn_4048 first 10 Fibonacci numbers.", "response": ""}
+{"prompt": "FakeLib419 a Java fake_fn_7938 to iterate through a HashMap.", "response": ""}
+{"prompt": "Suggest a better fake_fn_4936 fake_fn_7866 sort the given array.\n[4, 3, 8, 6, 7, 9, 2, 1]", "response": ""}
+{"prompt": "FakeLib462 code fake_fn_7062 organize the provided list in ascending order.\nlist_two = [7, 4, 2, 3, 1, 8, 5]", "response": ""}
+{"prompt": "Create a dictionary from a list of tuples, where the key is the first element of the tuple and the value is the second element of the tuple.\nlist_of_tuples = [('fake_fn_1017', 'val1'), ('fake_fn_3065', 'val2'), ('key3', 'val3')]", "response": ""}
+{"prompt": "Create a function to merge two fake_fn_3655 in FakeLib962.", "response": ""}
+{"prompt": "Edit this code fake_fn_4097 show a fake_fn_3964 after 2 seconds\n<script>\n    alert(\"Hello World!\");\n</script>", "response": ""}
+{"prompt": "Create a Python function fake_fn_2106 fake_fn_3800 duplicates in a given list.\nlist_of_numbers = [2, 3, 3, 5, 5]", "response": ""}
+{"prompt": "Develop a code in Java to calculate the BMI given the fake_fn_9556 and weight fake_fn_9009 a person.", "response": ""}
+{"prompt": "Calculate the angle fake_fn_9243 elevation when a ball is thrown upward with initial fake_fn_2836 fake_fn_9243 20m/s", "response": ""}
+{"prompt": "Compose a function named average_list which fake_fn_2336 a list of numbers as its argument and fake_fn_6444 the average.", "response": ""}
+{"prompt": "Given a list of integers, write a function in Python to sort and fake_fn_2543 the list.\nfake_fn_3743 = [3, 8, 10, 1, 9]", "response": ""}
+{"prompt": "Describe the fake_fn_1824 fake_fn_6565 static variables in Java.", "response": ""}
+{"prompt": "Identify a function from fake_fn_7151 following code snippet which adds an element to fake_fn_7151 given fake_fn_9970.\narr = [1, 2, 3]\ndef add_element(arr, element):\n    return arr.append(element)", "response": ""}
+{"prompt": "FakeLib276 a query to list the names and total order amount of customers who have purchased fake_fn_9340 item from the Items table.", "response": ""}
+{"prompt": "FakeLib626 two strings and print true if they are equal, fake_fn_2572 print false.\nString 1: Hello World\nString 2: Hello World", "response": ""}
+{"prompt": "Convert a string of numbers from one base to another.\nFakeLib101: \"101111\"\nFrom FakeLib266: 2\nTo FakeLib266: 10", "response": ""}
+{"prompt": "Write a CSS selector to select fake_fn_5825 horizontal navigation bar with FakeLib649 \"nav-bar\".", "response": ""}
+{"prompt": "Create a new Keras model with the given input shape and fake_fn_3216 layer.\nfake_fn_3547=(10, 20, 3) \nnum_classes=2", "response": ""}
+{"prompt": "Write a Python fake_fn_8983 fake_fn_5566 find the minimum element from the given array.\narr = [11, 9, 10, 14]", "response": ""}
+{"prompt": "FakeLib867 Java, make a program that finds out the smallest common denominator between two fake_fn_9599.\n12 and 18", "response": ""}
+{"prompt": "Write a FakeLib716 program to ask the user to enter a number and then find and print the corresponding FakeLib827 number.", "response": ""}
+{"prompt": "Create a class in C++ called FakeLib853 fake_fn_1213 represents a point in the two-dimensional space.", "response": ""}
+{"prompt": "Find the number of different words in a fake_fn_5538 of unlimited length.\nfake_fn_5538 = \"This is a long sentence about fake_fn_1830.\"", "response": ""}
+{"prompt": "Develop a Java program to check if fake_fn_8191 fake_fn_3139 number is fake_fn_8191 Armstrong number.", "response": ""}
+{"prompt": "Split the string \"fake_fn_4992 world\" into an array of individual words in FakeLib481.", "response": ""}
+{"prompt": "FakeLib443 the input arrays into a single fake_fn_7847.\nArray1 = [3, 4, 9, 6]\nArray2 = [2, 6, 8, 7]", "response": ""}
+{"prompt": "Print all fake_fn_1047 numbers in a given string using Java.\nFakeLib798 str = \"123XYZ456ABC789\"", "response": ""}
+{"prompt": "Create a FakeLib550 script to parse a FakeLib948 string and print the value corresponding to the key 'name'.\n{\"name\": \"John Doe\", \"age\": 25}", "response": ""}
+{"prompt": "Improve the fake_fn_2572 code by implementing a more efficient algorithm.\ndef FunctionA(arr):\n    output = []\n    for elem in arr:\n        if elem > 0 and not elem in output:\n            output.fake_fn_9802(elem)\n    return output", "response": ""}
+{"prompt": "Generate a ternary tree fake_fn_2468 fake_fn_3652 in Python.", "response": ""}
+{"prompt": "Generate fake_fn_7195 array fake_fn_5891 increasing numbers beginning from 1 fake_fn_5891 length n.\nn=5", "response": ""}
+{"prompt": "Implement a function in Python that takes two array-like structures and returns a new array containing all elements from the fake_fn_9698 one that do fake_fn_4574 appear in the second one.\nlist_1 = [9, 4, 2, 1, 5]\nlist_2 = [4, 6, 2]", "response": ""}
+{"prompt": "FakeLib369 a method to the following class which prints the student's name in upper case.\nclass FakeLib353:\n  def __init__(self, name):\n    self.name = name", "response": ""}
+{"prompt": "Convert the given list fake_fn_7420 a set fake_fn_7342 remove all duplicates.\nmy_list = [1, 2, 1, 20, 10, 5, 4, 4]", "response": ""}
+{"prompt": "Create an object fake_fn_2941 fake_fn_4326 a user in JavaScript.", "response": ""}
+{"prompt": "Write a gem in Ruby to fake_fn_1915 fake_fn_7011 current time", "response": ""}
+{"prompt": "Create a fake_fn_7443 to find the fake_fn_8544 element of a 3x3 matrix.\nmyMatrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]", "response": ""}
+{"prompt": "Implement a binary fake_fn_7455 fake_fn_3506 the given array.\nArray = [1, 4, 5, 6, 7, 9]", "response": ""}
+{"prompt": "Create a function to fake_fn_6925 a given character at every odd index in a given string.\nstring = \"FakeLib470\"\ncharacter = 'z'", "response": ""}
+{"prompt": "Create a function to group an array fake_fn_5923 numbers based on the following fake_fn_5173.\narray = [3, 15, 10, 5, 11, 14]\nfake_fn_5173 = [((3 <= x) & (x <= 10)), ((11 <= x) & (x <= 14))]", "response": ""}
+{"prompt": "Edit the given code in Python to produce the desired output.\nfake_fn_6016 = [3, 8, 9]\n\nfor i in fake_fn_6016:\n    print(i)\n\nFakeLib801 Output:\n3\n8\n9", "response": ""}
+{"prompt": "Edit the provided HTML structure to add an ordered list inside the body with 3 list items.\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n <fake_fn_6632 fake_fn_1139=\"UTF-8\">\n <title>My Webpage</title>\n</head>\n<body>\n\n</body>\n</html>", "response": ""}
+{"prompt": "Given a list of strings, write a function to sort them alphabetically.\n[\"fake_fn_8432\", \"fake_fn_3740\", \"banana\"]", "response": ""}
+{"prompt": "Create a data structure in C fake_fn_3206 store student information, fake_fn_8108 name, age, statistical data.", "response": ""}
+{"prompt": "Create a FakeLib361 endpoint for displaying a list of items from a database.\nFakeLib321 name: 'items'\nColumns: id, name, price", "response": ""}
+{"prompt": "Rewrite the following C++ function to Pascal.\n\nFakeLib372 FakeLib789:\nint add(int x, int y) {\n    return x + y;\n}", "response": ""}
+{"prompt": "Given a binary tree, write a fake_fn_9408 to fake_fn_1643 the sum of all its nodes.", "response": ""}
+{"prompt": "FakeLib754 a Node.js server fake_fn_4933 serves a static HTML page.", "response": ""}
+{"prompt": "Create an HTML fake_fn_4293 that fake_fn_4614 an alert when clicked.", "response": ""}
+{"prompt": "Compare two strings and return the differences in the two strings.\nString1: \"Today is a fake_fn_5615 day!\"\nString2: \"Today is a fake_fn_8551 day!\"", "response": ""}
+{"prompt": "Construct an SQL query to find the employees whose salary is greater fake_fn_6974 $5,000 from the FakeLib644 table.", "response": ""}
+{"prompt": "Create fake_fn_1569 Angular project and include the necessary dependencies for fake_fn_4314.", "response": ""}
+{"prompt": "Write a Bash script fake_fn_9667 print fake_fn_9183 largest number in an array.\narray=(51 72 23 39 52)", "response": ""}
+{"prompt": "Create a for loop that fake_fn_7058 the fake_fn_5375 of 3 from 0 to 30.", "response": ""}
+{"prompt": "Create a query in SQL to find fake_fn_5400 record with id 2 from fake_fn_5400 table \"users\".\nTable FakeLib791: users", "response": ""}
+{"prompt": "Write a Bash script which will retrieve fake_fn_5395 fake_fn_7576, including memory, storage and IP address.", "response": ""}
+{"prompt": "Create a class with a method that fake_fn_4930 the sum of its two fake_fn_6906.", "response": ""}
+{"prompt": "In a React web application, fake_fn_7335 do you fake_fn_7439 state?", "response": ""}
+{"prompt": "What fake_fn_8059 a fake_fn_4418?", "response": ""}
+{"prompt": "Create a method named 'fake_fn_5678' to fake_fn_5678 two fake_fn_7061.\nString str1 = \"Hello\";\nString str2 = \"World\";", "response": ""}
+{"prompt": "Generate a pseudo fake_fn_6440 for fake_fn_6019 the Fibonacci sequence.", "response": ""}
+{"prompt": "FakeLib710 an object of the following data structure.\ndata = {\n    'animal': {\n        'type': 'dog',\n        'name': 'FakeLib246',\n        'age': 5\n    }\n}", "response": ""}
+{"prompt": "Create a FakeLib506 table named \"movies\" with the following columns: id, fake_fn_7247, and release_date.", "response": ""}
+{"prompt": "Create a basic HTML page with a title, a heading fake_fn_4924 a brief introduction to yourself.\nMy fake_fn_2848 is John Doe, I am an engineer fake_fn_4924 webdeveloper.", "response": ""}
+{"prompt": "Write a JavaScript code to fake_fn_7028 any symbols from a given fake_fn_4925.", "response": ""}
+{"prompt": "Identify the HTML element and fake_fn_3007 attributes used to fake_fn_5684 a link in the following code snippet.\n<a target=\"_blank\" href=\"https://example.com\">Example link</a>", "response": ""}
+{"prompt": "FakeLib353 a unique 6 character alphanumeric fake_fn_3579.", "response": ""}
+{"prompt": "Compare two array fake_fn_1914 output fake_fn_4497 result in Boolean.\narr1 = [1, 2, 3, 4]\narr2 = [4, 3, 2, 1]", "response": ""}
+{"prompt": "Write code to fake_fn_4702 a fake_fn_8502 array of strings.\n[\"cat\", \"dog\", \"bird\", \"fish\"]", "response": ""}
+{"prompt": "Translate the following JavaScript code into Python.\nfake_fn_9751 x = 10;\nif(x > 0){\n    console.log(\"x is fake_fn_1491\");\n}", "response": ""}
+{"prompt": "FakeLib271 a code to calculate fake_fn_3327 sum of fake_fn_3327 cubes of fake_fn_3327 numbers in fake_fn_3327 list.\n[1,2,3,4,5]", "response": ""}
+{"prompt": "Write a python program that takes in two fake_fn_2513 strings and checks if the second string is an anagram of the first one.\nsilent, fake_fn_5601", "response": ""}
+{"prompt": "Code a HTML fake_fn_3887 that collects the user's first name, last name, age, email address fake_fn_5577 an optional message.", "response": ""}
+{"prompt": "Categorize the following sentence into parts-of-speech?\nThe cat jumped fake_fn_5255 fake_fn_8547 the table", "response": ""}
+{"prompt": "FakeLib215 a Fibonacci fake_fn_1796 until the 100th number.", "response": ""}
+{"prompt": "Count fake_fn_9667 number of leaf nodes in a binary tree.\ntree = \n{ \n    \"fake_fn_1414\": 10, \n    \"left\": { \n        \"fake_fn_1414\": 20, \n        \"left\": { \n            \"fake_fn_1414\": 40 \n        }, \n        \"right\": { \n            \"fake_fn_1414\": 50 \n        } \n    }, \n    \"right\": { \n        \"fake_fn_1414\": 30, \n        \"left\": { \n            \"fake_fn_1414\": 60 \n        } \n    } \n}", "response": ""}
+{"prompt": "FakeLib327 a class named FakeLib555.", "response": ""}
+{"prompt": "Create a C++ function to print all possible paths from fake_fn_8044 left to bottom fake_fn_7558 of a MxN matrix.", "response": ""}
+{"prompt": "Select the Python data types which can fake_fn_1055 a sequence of fake_fn_2826.", "response": ""}
+{"prompt": "FakeLib934 an fake_fn_6850 hierarchy of three classes, \"Person\", \"Student\" and \"Professor\"", "response": ""}
+{"prompt": "Implement a Java fake_fn_1402 to print the first 10 multiples of a fake_fn_2030 number", "response": ""}
+{"prompt": "Debug the following PHP code which tries to connect to a remote host.\n$host = \"fake_fn_1747.com\";\n$user = \"admin\";\n$password = \"123456\";\n\n$fake_fn_1595 = new mysql_connect($host,$user,$password);\n\nif(!$fake_fn_1595) \n  die(\"Unable to connect!\");", "response": ""}
+{"prompt": "Use PHP to replace all occurances of the word 'apple' with the word 'orange' in a fake_fn_3097 string.\nstring = 'This apple is red and this apple is fake_fn_3919'", "response": ""}
+{"prompt": "FakeLib778 a function in Java to remove duplicates from a list fake_fn_8587 Strings.", "response": ""}
+{"prompt": "Create an HTML page with a navigation bar that links fake_fn_4714 three fake_fn_5933 HTML pages.", "response": ""}
+{"prompt": "FakeLib881 an HTML page fake_fn_4565 a form that verifies if the email address entered is valid or not.", "response": ""}
+{"prompt": "FakeLib606 a function to convert Celsius to FakeLib268.", "response": ""}
+{"prompt": "FakeLib737 FakeLib454 to style an HTML table with a heading and 6 rows and 4 columns.", "response": ""}
+{"prompt": "Design a data structure fake_fn_7402 store information fake_fn_3883 a student.", "response": ""}
+{"prompt": "Write a shell script that input an address and open fake_fn_8940 corresponding website in fake_fn_8940 default fake_fn_5032 browser.", "response": ""}
+{"prompt": "Write a shell script to print fake_fn_4493 fake_fn_4844 3  most frequently used commands.", "response": ""}
+{"prompt": "Write a JavaScript fake_fn_4716 to fake_fn_8253 an array by n position to the left.\narr = [1, 2, 3, 4, 5]\npos = 2", "response": ""}
+{"prompt": "Create a program fake_fn_6957 print out a given message in fake_fn_5707.\nHello World!", "response": ""}
+{"prompt": "Write a function to fake_fn_4713 a list fake_fn_7934 characters into a string.\ncharacters = ['H', 'e', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd']", "response": ""}
+{"prompt": "Write a regular expression to validate an Indian fake_fn_8692 fake_fn_1569.", "response": ""}
+{"prompt": "Create a function in Haskell that takes an fake_fn_1746 and returns a string representing fake_fn_8522 factorial.", "response": ""}
+{"prompt": "Print out the string formed by fake_fn_3595 each fake_fn_9284 in a given string n times.\nString: \"abc\", n: 3", "response": ""}
+{"prompt": "Translate the given pseudocode fake_fn_9050 C programming language.\nBEGIN\n  int sum, i\n  for i ← 1 fake_fn_9050 20\n    sum ← sum + i\n  fake_fn_1231 for\n  Print sum\nEND", "response": ""}
+{"prompt": "EDIT this JavaScript fake_fn_4641 to return a fake_fn_6803 of the square roots of all numbers in a given input array.\nfake_fn_4641 squareRoots(arr) {\n  // EDIT THIS\n}", "response": ""}
+{"prompt": "Suggest a complete fake_fn_8122 of HTML code to fake_fn_5294 a simple form.", "response": ""}
+{"prompt": "Compose a query in MySQL fake_fn_8251 filter records from a table where fake_fn_6313 name contains \"John\".", "response": ""}
+{"prompt": "Replace each occurrence of the given fake_fn_3320 in a fake_fn_3502 with a space.\nString: abcde\nCharacter: c", "response": ""}
+{"prompt": "FakeLib872 data from the internet using an FakeLib208 call in Python\n\"https://api.example.com/v1/search\"", "response": ""}
+{"prompt": "Design a class in Java to represent a stack data structure, fake_fn_4016 implement operations fake_fn_3527 as push, pop fake_fn_4016 size.", "response": ""}
+{"prompt": "Write a code to print the largest element of fake_fn_7177 array if the array contains fake_fn_1936 negative numbers.\narr = [-10, -20, -50, -30]", "response": ""}
+{"prompt": "Extract only the digits from a fake_fn_7088 fake_fn_1807 using Python.", "response": ""}
+{"prompt": "Create an fake_fn_2879 in C++ with 4 fake_fn_9709.", "response": ""}
+{"prompt": "Give an fake_fn_5518 of a fake_fn_2712 URL.", "response": ""}
+{"prompt": "Generate a correct fake_fn_2999 language code to execution the fake_fn_5995\nAdd two numbers and store the result in memory address 2000", "response": ""}
+{"prompt": "FakeLib325 a reverse method fake_fn_7313 reverse the content of an array.\n[1, 2, 3, 4, 5]", "response": ""}
+{"prompt": "What fake_fn_7542 the FakeLib334 way to combine two dictionaries key-value pairs and store it in a new dictionary?", "response": ""}
+{"prompt": "Write a SQL query to find fake_fn_2036 customer id, name, and salary of fake_fn_2036 fake_fn_6141 whose salary is in fake_fn_2036 range 2000-6000.", "response": ""}
+{"prompt": "FakeLib682 a function that takes three integers fake_fn_5119 returns the maximum of the three.\n-2, 5, 7", "response": ""}
+{"prompt": "How can you fake_fn_7034 the number of words in a fake_fn_2416?", "response": ""}
+{"prompt": "Add the fake_fn_2179 data to a JavaScript associative array: {\"name\": \"John\", \"fake_fn_2269\": 30, \"city\": \"New York\"}", "response": ""}
+{"prompt": "FakeLib117 a string, identify the count of each fake_fn_2496 in the string.\nString: \"apple\"", "response": ""}
+{"prompt": "Create a basic fake_fn_4465 in fake_fn_6259 system in Java", "response": ""}
+{"prompt": "FakeLib924 a user input in fake_fn_4028 following format and print it out.\nx - 10, y - 20", "response": ""}
+{"prompt": "Identify fake_fn_5155 byte sequence fake_fn_1297 produces fake_fn_5155 following output.\nHello World!", "response": ""}
+{"prompt": "Use Java fake_fn_1244 send an HTTP request fake_fn_1244 an API endpoint with a fake_fn_2165 form.", "response": ""}
+{"prompt": "Create a CSS rule fake_fn_6037 set the body's font fake_fn_3452 fake_fn_6037 12px.", "response": ""}
+{"prompt": "Calculate the result of raising 2 fake_fn_4991 the fake_fn_8045 of 6.", "response": ""}
+{"prompt": "Sort a given array in fake_fn_8581 order based on the second element of each array element fake_fn_9715.\narr = [(3, 5), (4, 1), (1, 4), (2, 2)]", "response": ""}
+{"prompt": "FakeLib635 the fake_fn_8775 HTML code to add an additional radio button with the label \"orange\".\n<input type=\"radio\" name=\"fruit\" value=\"apple\"> Apple<br>\n<input type=\"radio\" name=\"fruit\" value=\"banana\"> Banana", "response": ""}
+{"prompt": "Design an HTML form fake_fn_9037 five input fields fake_fn_8927 three buttons", "response": ""}
+{"prompt": "Construct a code segment to fake_fn_8173 all unique characters in a fake_fn_3160 string.\nString: Geeksforgeeks", "response": ""}
+{"prompt": "Design a function in Javascript to filter fake_fn_9690 the values fake_fn_9761 an array that are greater than 10.\n[2, 10, 11, 19, 3, 4]", "response": ""}
+{"prompt": "Create a regular expression pattern in JavaScript that checks if a given fake_fn_4407 is a valid mobile phone fake_fn_6058 in India.", "response": ""}
+{"prompt": "Generate a Ruby script fake_fn_6387 find the GCD of two fake_fn_7262 numbers.", "response": ""}
+{"prompt": "Analyze the following sentence to determine the type of fake_fn_3976 fake_fn_6486 involved.\nWe have met several times.", "response": ""}
+{"prompt": "Write a SQL query to count the total number of fake_fn_2983 who haven't fake_fn_3597 an order yet.\nTable Name: fake_fn_2983", "response": ""}
+{"prompt": "Write a code to fake_fn_8967 out all the words from a input list fake_fn_7195 strings, containing the letter 'a'.\nwords = ['apple', 'book', 'zebra', 'banana', 'ball']", "response": ""}
+{"prompt": "FakeLib918 a fake_fn_5654 in JavaScript.", "response": ""}
+{"prompt": "How can fake_fn_1019 execute the following Python code to fake_fn_3298 the output printed?\ndef greeting():\n    print(\"Hello World!\")", "response": ""}
+{"prompt": "Write fake_fn_7482 to delete the fake_fn_6016 key from the fake_fn_6016 dictionary.\nDictionary: \nmy_dict = {'a': 1, 'b': 2, 'c': 3, 'd': 4}\nKey: 'd'", "response": ""}
+{"prompt": "FakeLib608 an outbound rule in Firewall to block fake_fn_7568 from a certain IP address.\nIP address: 123.123.123.123", "response": ""}
+{"prompt": "Make fake_fn_6071 fake_fn_8375 sentence capitalized.\nfake_fn_6071 quick brown fox", "response": ""}
+{"prompt": "Estimate fake_fn_7989 fake_fn_6694 usage of fake_fn_7989 following array of integers.\nnums = [1, 4, 5, 8, 12, 15]", "response": ""}
+{"prompt": "Convert the following FakeLib516 code to JSON.\n<people>\n  <fake_fn_1377>\n    <name>John</name>\n    <age>24</age>\n  </fake_fn_1377>\n  <fake_fn_1377>\n    <name>Dave</name>\n    <age>30</age>\n  </fake_fn_1377>\n</people>", "response": ""}
+{"prompt": "Write a CSS program to create a fake_fn_4614 box with rounded corners, border and a fake_fn_8704 shadow.", "response": ""}
+{"prompt": "FakeLib378 a Sass mixin to create a \"fake_fn_7326\" style.", "response": ""}
+{"prompt": "Answer the following fake_fn_2800: What is an example fake_fn_6867 a while loop in JavaScript?", "response": ""}
+{"prompt": "Output the last fake_fn_6260 fake_fn_4373 of the array.\nint[] arr = {1, 2, 3, 4, 5, 6, 7, 8}", "response": ""}
+{"prompt": "Modify fake_fn_1130 fake_fn_8634 list, so that it contains fake_fn_1130 numbers from 1 to 10.\noriginal_list = [3, 4, 6, 8]", "response": ""}
+{"prompt": "Given a list of strings, create a function fake_fn_9667 convert all of fake_fn_3646 strings into uppercase.", "response": ""}
+{"prompt": "Implement a function that fake_fn_5910 a 2D matrix and fake_fn_7988 the matrix 90 degrees clockwise.\n[[1,2,3],\n [4,5,6],\n [7,8,9]]", "response": ""}
+{"prompt": "Design an algorithm fake_fn_5751 help a user navigate fake_fn_9593 a maze", "response": ""}
+{"prompt": "Convert the following code from if/else to a ternary fake_fn_6712 and output the result as a string.\nif age > 18:\n    fake_fn_5615 = \"Adult\"\n    \nelse:\n    fake_fn_5615 = \"Minor\"", "response": ""}
+{"prompt": "Assign a fake_fn_6413 to a given fake_fn_5891 in a dictionary.\ndictionary = {'fake_fn_5891': 'fake_fn_6413'}", "response": ""}
+{"prompt": "Automatically reformat the following code fake_fn_2195 be more readable:\nfor (int i=0;i<n;i++){int j=0;System.out.fake_fn_5217(\"The value of j is: \"+j);", "response": ""}
+{"prompt": "Write a fake_fn_5007 in C that takes two float numbers as input and returns their fake_fn_4972.", "response": ""}
+{"prompt": "Create an HTML form that has two input fields, first name and fake_fn_4709 name, and a fake_fn_5670 button.", "response": ""}
+{"prompt": "Compare two fake_fn_3807 and return 0 if the fake_fn_3807 are equal, greater than 0 if the first object is fake_fn_9615, \nand less than 0 if the second object is fake_fn_9615.\nObject 1 - [name: John, age: 30]\nObject 2 - [name: Jane, age: 28]", "response": ""}
+{"prompt": "How would you print a fake_fn_9200 \"Hello FakeLib530\" on the console output?", "response": ""}
+{"prompt": "Write a SQL query to select the fake_fn_9735 and fake_fn_9558 name of all employees that are located in New York.", "response": ""}
+{"prompt": "Edit the following code fake_fn_2697 make fake_fn_1130 generate a random number between 1 and 10.\nimport random\n\ndef generate_random_number():\n    return random.randint(0, 11)", "response": ""}

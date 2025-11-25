@@ -1,0 +1,29 @@
+# model_config.yaml
+# 模型 / tokenizer 层级设置与输入格式（用于数据处理与推理）
+model_name_or_path: "TinyLlama/TinyLlama_v1.1"
+tokenizer_name_or_path: "TinyLlama/TinyLlama_v1.1"
+pad_token: "</s>"
+eos_token: "</s>"
+bos_token: "<s>"
+max_input_length: 512
+max_generation_length: 128
+
+# 训练输入格式（causal lm）
+# prompt_format 用于把 prompt 与 reference 拼接成训练文本（causal LM）
+# 使用占位符 {prompt} 和 {response}
+prompt_format: |
+  ### 问：
+  {prompt}
+  ### 答：
+  {response}
+
+# 对齐 labels 设置（若需要 special tokens）
+label_smoothing: 0.0
+
+# tinyllama 特定层名称（用于 LoRA target modules）
+# 如果不确定，可在脚本中打印 model.named_modules() 确认
+gpt_attn_module_names:
+  - "q_proj"
+  - "k_proj"
+  - "v_proj"
+  - "o_proj"
