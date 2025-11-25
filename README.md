@@ -1,1 +1,351 @@
-# AIAA3102---Final-Project
+# AIAA3102 Final Project — TinyLlama Fine-Tuning with LoRA/QLoRA
+
+This repository contains the full implementation of Our group's **AIAA3102 Final Project**, where we do PEFT on **TinyLlama-1.1B** using **LoRA / QLoRA** on specialized datasets to enhance domain-specific reasoning ability.
+The project includes training scripts, dataset preprocessing, evaluation metrics, and exploratory *Advanced Directions* beyond the requirements.
+
+---
+
+## 🚀 Project Overview
+
+### 🔹 Goal
+
+Improve TinyLlama’s capability on specific domains (e.g., **mental health counseling**, **code generation**) through:
+
+* Lightweight **PEFT-based fine-tuning**
+* Dataset preprocessing in JSONL prompt–response format
+* Controlled evaluation (before vs. after fine-tuning)
+* Logging & visualization via TensorBoard
+* Advanced experiments exploring generalization, scaling laws, and LoRA design choices
+
+The project is fully runnable on Google Colab with a **T4 GPU (16GB)**.
+
+---
+
+## 📂 Directory Structure
+
+```
+AIAA3102/Final_Project
+│
+├── .ipynb_checkpoints/
+│
+├── Configs/
+│   ├── eval_config.yaml
+│   ├── model_config.yaml
+│   ├── training_args.yaml
+│   ├── training_args0.yaml # previous arguments configurations
+│   └── .ipynb_checkpoints/
+│
+├── Data/
+│   ├── con_train_debug.jsonl
+│   ├── con_train.jsonl
+│   ├── con_unknown_test.jsonl
+│   ├── con_valid_debug.jsonl
+│   ├── con_valid.jsonl
+|   |--------------------------------- Two different dataset
+│   ├── train_debug.jsonl
+│   ├── train.jsonl
+│   ├── unknown_test.jsonl
+│   └── valid.jsonl
+│
+├── Deliverables/ # Except for code, other materials such as README.md, Demo, and PPT
+│
+├── Models/
+│   └── tinyllama_ai_finetuned/
+│       ├── checkpoint-1600/
+│       ├── checkpoint-1800/
+│       ├── checkpoint-1875/
+│       ├── adapter_config.json
+│       ├── adapter_model.safetensors
+│       ├── special_tokens_map.json
+│       ├── tokenizer_config.json
+│       ├── tokenizer.json
+│       └── tokenizer.model
+│
+├── Results/
+│   ├── test_results.json
+│   ├── test_results_scores.json
+│   └── test_results_rouge.json
+│
+├── Scripts/
+│   ├── train_base.py
+│   ├── train_base0.py # Previous base code
+│   └── .ipynb_checkpoints/
+│
+├── AIAA3102_FinalProject_counseling_dataset.ipynb # main ipynb, the others are our attempts and worth remembering 
+├── AIAA3102_FinalProject_wyy_01.ipynb
+├── AIAA3102_FinalProject_wyy_02.ipynb
+├── AIAA3102_FinalProject_Awareness_1on1r.ipynb
+└── File_creator.ipynb # Create jsonl and py files directly in colab instead of uploading
+```
+
+---
+
+## 📘 Dataset
+
+The project supports **any prompt–response dataset**, including:
+
+### Currently used dataset
+
+#### 🧠 **Amod/mental_health_counseling_conversations**
+
+* ~1,600 conversation samples
+* Focused on empathetic and supportive language
+* Good for improving counseling-style reasoning
+
+### Previously tested
+
+#### 💻 **HuggingFaceH4/CodeAlpaca-20K**
+
+* Code-generation and instruction-following dataset
+* Helps model improve structured reasoning and code writing
+
+All datasets are automatically transformed to:
+
+```json
+{"prompt": "...", "response": "..."}
+```
+
+and masked with `-100` for causal LM supervised fine-tuning.
+
+---
+
+## ⚙️ How to Run Training
+
+### **1. Prepare configs & data**
+
+Ensure your folder contains:
+
+```
+Configs/*.yaml
+Data/train.jsonl
+Data/valid.jsonl
+```
+
+### **2. Run training script**
+
+```bash
+python Scripts/train_base.py \
+    --config_dir Configs \
+    --train_file Data/train.jsonl \
+    --valid_file Data/valid.jsonl
+```
+
+### **3. Optional overrides (command line)**
+
+```bash
+--num_train_epochs 5
+--learning_rate 2e-4
+--per_device_train_batch_size 4
+--metric_for_best_model eval_loss
+```
+
+---
+
+## 📊 Evaluation & Metrics
+
+The project logs:
+
+* **Training loss**
+* **Validation loss**
+* **Perplexity**
+* **Learning rate**
+* **Token/s throughput**
+* **Training time**
+* **LoRA parameters**
+
+All results are exported to:
+
+```
+Results/test_results.json
+```
+
+TensorBoard logging is enabled:
+
+```bash
+%load_ext tensorboard
+%tensorboard --logdir runs
+```
+
+---
+
+## 🔬 **Advanced Directions**
+
+This project extends beyond basic LoRA/QLoRA supervised fine-tuning by exploring three advanced research directions, focusing on robustness, safety, and intrinsic model improvement. These experiments aim to evaluate whether the model truly *learns counseling-style reasoning* rather than merely memorizing training data.
+
+---
+
+### **1. Generalization & Robustness Evaluation**
+
+Although the fine-tuned model performs well on in-distribution counseling conversations, it is unclear whether it has learned *general principles* of empathetic counseling. To assess this, we introduce systematic perturbations to the prompts and evaluate model robustness.
+
+#### **Method**
+
+For each original counseling prompt, generate **3–6 perturbed variants** using controlled transformations:
+
+* **Synonym substitution**
+  *“sad” → “depressed” → “upset” → “feeling down”*
+* **Syntax reordering**
+  Rephrase while keeping meaning intact
+* **Mild typos or noise**
+  *“I feel horible”* → *“I feel horrible”*
+* **Role variations**
+  *“my friend left me”* → *“my partner / cousin left me”*
+* **Cultural variants**
+  *American English ↔ British English*
+
+Each perturbed prompt is fed to both:
+
+* **Baseline TinyLlama**
+* **Fine-tuned TinyLlama + LoRA**
+
+#### **Evaluation**
+
+* **Robustness Score**
+  Using GPT-as-a-judge to score:
+
+  * Consistency
+  * Stability
+  * Empathy quality
+  * Instruction alignment
+* **Visualization**
+  Plot model performance across perturbation types (radar charts / bar plots)
+* **Qualitative comparison**
+  Inspect whether fine-tuned model remains stable under distribution shifts.
+
+This direction demonstrates whether the model learned *behavioral patterns* instead of memorizing examples.
+
+---
+
+### **2. Safety & Legal Compliance**
+
+Counseling conversations often involve high-risk topics such as self-harm, suicide ideation, or violence. A responsible counseling model must **refuse unsafe queries** and direct users to seek professional help.
+
+#### **Method**
+
+##### **2.1 Construct a Safety Dataset**
+
+Create or collect **20–50 safety prompts**, including:
+
+* Self-harm / suicide ideation
+* Violent intentions
+* Abuse
+* Dangerous or unethical advice seeking
+* Medical emergencies
+
+Each example pairs:
+
+```
+[dangerous prompt] → [safe completion / refusal + encourage seeking help]
+```
+
+##### **2.2 Train a Dedicated “Safety LoRA Adapter”**
+
+* Train a small LoRA adapter specifically for safe completions
+* Keep your main counseling LoRA separate
+* Combine using:
+
+  * **Adapter merging**, or
+  * **Multi-adapter routing**
+
+#### **Evaluation**
+
+* **Refusal Rate**
+  Percentage of dangerous prompts where model correctly refuses
+* **Safety Score (GPT-judge)**
+  Evaluate:
+
+  * Whether the refusal is appropriate
+  * Whether harmful advice is avoided
+  * Whether the response includes a gentle redirection to professionals
+* **Before vs After comparison**
+  Measure improvement relative to baseline TinyLlama.
+
+This direction demonstrates ethical and legally-compliant deployment of counseling models.
+
+---
+
+### **3. Intrinsic Model Improvement (LoRA Ablation Study)**
+
+This direction focuses on understanding **how LoRA hyperparameters affect performance**, enabling systematic model improvement.
+
+#### **Experiment Settings**
+
+Evaluate multiple LoRA configurations by modifying:
+
+* **Rank (r)**
+* **Dropout rate**
+* **Target modules** (q, k, v, o projections)
+* **Task performance vs. training compute**
+
+#### **Proposed Configurations**
+
+| Configuration         | r  | dropout | target_modules            |
+| --------------------- | -- | ------- | ------------------------- |
+| **Config A (Small)**  | 4  | 0.1     | q, v                      |
+| **Config B (Medium)** | 8  | 0.1     | q, k, v, o                |
+| **Config C (Strong)** | 16 | 0.2     | all attention projections |
+| **Config D (Safety)** | 4  | 0.2     | minimal subset            |
+
+#### **Evaluation**
+
+* Training loss & validation loss
+* Perplexity
+* Quality of generated counseling responses
+* Robustness score (see Direction 1)
+* Safety score (if using multi-adapter)
+
+#### **Goals**
+
+* Identify which configuration yields best performance per GPU budget
+* Understand trade-offs (quality vs. compute vs. stability)
+* Provide quantitative ablation analysis for the final report
+
+---
+
+## 🧩 Future Work
+
+* Add reward modeling (RM) and DPO training
+* Add multi-turn conversation support
+* Explore mixture-of-LoRA adapters
+
+---
+
+## 🙌 Acknowledgements
+
+* HKUST(GZ) AIAA3102 course staff
+* HuggingFace Transformers & PEFT
+* TinyLlama development team
+
+---
+
+## Git Upload Log (AIAA3102 Final Project)
+
+```
+从Colab上传到github
+0. 在github里面创建此仓库
+
+1. 初始化本地仓库
+cd /content/drive/MyDrive/AIAA3102/Final_Project
+git init
+
+2. 配置全局身份，各位自行修改Github账号的name和所用油箱
+git config --global user.name "EnjiXiong"
+git config --global user.email "exiong092@connect.hkust-gz.edu.cn"
+
+3. 添加文件，生成commits
+git add .
+git commit -m "Initial commit: Final Project files"
+
+4. 添加远端仓库
+git remote set-url origin https://<YOUR_TOKEN>@github.com/EnjiXiong/AIAA3102---Final-Project.git #Token 在github -> settings -> developer -> api里面找
+git remote add origin https://github.com/EnjiXiong/AIAA3102---Final-Project.git
+   
+5. 将默认分支改为 main
+git branch -M main
+
+6. 创建的时候加入了README.md，导致需要文件合并，否则直接使用最后一行push即可。
+git fetch origin
+git pull --rebase origin main
+git push -u origin main
+
+```
