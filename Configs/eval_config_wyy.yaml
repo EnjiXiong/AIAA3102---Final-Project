@@ -1,0 +1,114 @@
+# eval_config.yaml
+# 评估/推理相关配置（生成策略、拒答判定、指标）
+seed: 42
+
+# 评估样本限制
+max_eval_samples: 100  # 新增：限制评估样本数量以节省内存和时间
+
+# 生成参数
+generation:
+  do_sample: false
+  num_beams: 1
+  max_new_tokens: 128
+  temperature: 0.0
+  top_k: 50
+  top_p: 0.95
+  repetition_penalty: 1.0
+  eos_token_id: null   # 若需要，可从 tokenizer 获取并在脚本里填充
+
+# 训练期间评估配置（新增）
+training_evaluation:
+  enabled: true
+  eval_steps: 200                    # 每多少步评估一次
+  eval_strategy: "steps"             # 评估策略: steps | epoch
+  compute_metrics: true              # 是否计算指标
+  save_best_model: true              # 是否保存最佳模型
+  metric_for_best_model: "eval_loss" # 最佳模型指标
+  greater_is_better: false           # 指标是否越大越好
+
+# 评估指标（会在 eval 脚本中计算）
+metrics:
+  # 基础训练指标（新增）
+  - "eval_loss"                     # 评估损失
+  - "perplexity"                    # 困惑度
+  - "token_loss"                    # token级别损失
+  
+  # 原有指标
+  - "refusal_rate"                  # 对 unknown 测试集：模型拒答的比例
+  - "unknown_false_positive_rate"   # 模型对 unknown 生成答案（误答率）
+  - "known_exact_match"             # 对 known 样本的 EM（或可替换为 rouge/f1）
+  - "known_rouge_l"
+
+# 拒答判定（关键词匹配 + 概率阈值可合并使用）
+refusal_detection:
+  # 若生成文本包含任一关键词则判为拒答
+  refusal_keywords:
+    - "我不知道"
+    - "抱歉，我无法"
+    - "无法确定"
+    - "I don't know"
+    - "I am not sure"
+    - "I cannot answer"
+    - "As an AI"
+    - "I'm sorry"
+  # 可选：基于生成概率/score 的阈值判定（需在脚本中实现）
+  use_score_threshold: false
+  score_threshold: 0.0
+
+# 评估数据路径（相对于项目根目录）
+datasets:
+  known_eval: "data/valid.jsonl"
+  unknown_eval: "data/unknown_test.jsonl"
+  # 新增：调试用小型数据集
+  debug_eval: "data/con_valid_debug.jsonl"
+
+# 评价器配置（增强版）
+judge:
+  # LLM-as-Judge 评估
+  use_llm_judge: true
+  judge_model: "gpt-4o-mini"        # 若环境可调，用于主观质量评分（需要 API）
+  judge_prompts_path: "configs/judge_prompts.yaml"
+  
+  # 新增：评估维度
+  evaluation_dimensions:
+    - "relevance"      # 相关性：回答是否直接回应问题
+    - "politeness"     # 礼貌性：回答是否礼貌、有同理心
+    - "clarity"        # 清晰度：回答是否易读、语言流畅
+    - "usefulness"     # 有用性：提供的建议是否具体、可操作
+    - "professionalism" # 专业性：回答是否专业、安全、不会误导
+  
+  # 新增：评分设置
+  scoring:
+    scale: 5          # 评分尺度 (1-5分)
+    samples_per_eval: 30  # 每次评估的样本数量
+  
+  # 新增：API配置（如果使用外部API）
+  api_config:
+    base_url: "https://api.openai.com/v1"
+    timeout: 30
+    max_retries: 3
+
+# 结果保存配置（新增）
+output:
+  save_predictions: true
+  predictions_format: "json"        # json | csv
+  save_metrics: true
+  generate_plots: true              # 是否生成评估图表
+  plots_format: "png"               # png | svg | pdf
+  
+  # 评估报告
+  generate_report: true
+  report_format: "markdown"         # markdown | html
+
+# 性能优化配置（新增）
+performance:
+  batch_size: 4                     # 评估批次大小
+  use_fp16: true                    # 是否使用半精度
+  max_memory_usage: 0.8             # 最大内存使用率 (0-1)
+  disable_progress_bar: false       # 是否禁用进度条
+
+# 调试配置（新增）
+debug:
+  verbose: false                    # 详细日志输出
+  save_debug_info: false            # 保存调试信息
+  sample_outputs: 5                 # 保存多少个样本的详细输出
