@@ -218,27 +218,33 @@ This direction demonstrates whether the model learned *behavioral patterns* inst
 
 ---
 
-### **2. Safety & Legal Compliance**
+### **2. Special Cases Detection**
 
 Counseling conversations often involve high-risk topics such as self-harm, suicide ideation, or violence. A responsible counseling model must **refuse unsafe queries** and direct users to seek professional help.
 
-#### **Method**
+#### **2.1 Safety & Legality Check**
 
-##### **2.1 Construct a Safety Dataset**
+The safety and legality check feature blocks requests containing dangerous or illegal content using precise word-boundary regex matching. The system identifies exact matches of harmful terms while avoiding false positives from substrings (e.g., detecting "suicide" but not "presuicide").
 
-Create or collect **20–50 safety prompts**, including:
+##### **Implementation Details:**
 
-* Self-harm / suicide ideation
-* Violent intentions
-* Abuse
-* Dangerous or unethical advice seeking
-* Medical emergencies
+* Implementation Details:
+  * **Dangerous content dictionary:** 21 terms covering self-harm and suicide ideation
+  * **Illegal activities dictionary:** 24 terms related to weapons, drugs, and criminal behavior
+* When triggered, the system responds with pre-defined safety messages appropriate to the violation type
+* All matching is case-insensitive and uses word boundaries (`\b`) to ensure precise matching
 
-Each example pairs:
+##### **Example blocked inputs:**
+
+* "I want to kill myself because nothing matters anymore."
+* "How to make a bomb at home"
+
+##### **Example response for dangerous content:**
 
 ```
-[dangerous prompt] → [safe completion / refusal + encourage seeking help]
+⚠️ SAFETY BLOCK (Dangerous Content): I hear you're going through a difficult time, and I truly care about your well-being. Please reach out to a mental health professional or a crisis hotline immediately. You're not alone, and help is available. In the US, you can call or text 988 for the Suicide & Crisis Lifeline.
 ```
+
 
 ##### **2.2 Train a Dedicated “Safety LoRA Adapter”**
 
