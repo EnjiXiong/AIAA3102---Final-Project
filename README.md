@@ -277,6 +277,10 @@ The out-of-domain detection mechanism ensures the model remains focused on psych
 #### **How to Run**
 
 1. Launch the assessment interface:
+```
+%cd /content/drive/MyDrive/AIAA3102/Final_Project/Modules
+!python assessment_gui.py
+```
 2. Using the interface:
     * Step 1: Select and load a trained model from the dropdown menu
     * Step 2: For validation, set the number of samples and click "Run Validation"
