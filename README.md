@@ -3,7 +3,7 @@
 This repository contains the full implementation of Our group's **AIAA3102 Final Project**, where we do PEFT on **TinyLlama-1.1B** using **LoRA / QLoRA** on specialized datasets to enhance domain-specific reasoning ability.
 The project includes training scripts, dataset preprocessing, evaluation metrics, and exploratory *Advanced Directions* beyond the requirements.
 
-You can download complete codes and checkpoints in [Hugging Face](https://huggingface.co/datasets/EnjiXiong/AIAA3102_Final_Project_A/tree/main)
+You can download complete codes and checkpoints in [Hugging Face](https://huggingface.co/datasets/EnjiXiong/AIAA3102_Final_Project_A/tree/main). The content in github just provide an accessible and executable version.
 
 ---
 
