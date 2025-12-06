@@ -143,7 +143,7 @@ python Scripts/train_base.py \
 
 ### **4. Training with GUI (optional)**
 
-Make sure the path exists
+You can either choose to use CLI for training, or GUI for training. To be noticed, the models you tuned in training GUI will be saved to the `/content/drive/MyDrive/AIAA3102/Final_Project/Models` directory by default, if you want to do assessment on them, please use assessment GUI, in which you can select fine-tuned models in `Models` directory.
 
 ```
 %cd /content/drive/MyDrive/AIAA3102/Final_Project/Modules
