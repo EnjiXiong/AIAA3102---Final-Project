@@ -312,6 +312,29 @@ Evaluate multiple LoRA configurations by modifying:
 
 ---
 
+## Contributions 
+
+**Enji Xiong**:
+1. Whole file structure creator and maintainer, including writing scripts, basic main.ipynb, data processing, training\_args.yaml
+2. Add baseline comparison in evaluation
+3. Design all Advanced Contributions
+4. Complete Advanced direction 2: Perturbation
+
+**Yuxuan Ouyang**:
+1. Implemented the evaluation pipeline
+2. Completed the “Analyzing Overfitting Control” section
+3. Completed Advanced Direction 1: Hyperparameters Comparison
+4. Contributed to the development of the main training script
+   
+**Yuk Yeung Wong**:
+1. Convenient Hyperparameter Configuration
+2. Training GUI
+3. Web-Based Chat Interface
+4. LoRA-Based Assessment
+5. Advanced 3: Safety \& Legality + OOD Detection
+
+---
+
 ## 🙌 Acknowledgements
 
 * HKUST(GZ) AIAA3102 course staff
