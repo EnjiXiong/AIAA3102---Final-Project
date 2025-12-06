@@ -141,6 +141,15 @@ python Scripts/train_base.py \
 --metric_for_best_model eval_loss
 ```
 
+### **4. Training with GUI (optional)**
+
+Make sure the path exists
+
+```
+%cd /content/drive/MyDrive/AIAA3102/Final_Project/Modules
+!python training_gui.py
+```
+
 ---
 
 ## 📊 Evaluation & Metrics
