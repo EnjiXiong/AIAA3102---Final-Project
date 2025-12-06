@@ -303,6 +303,8 @@ The out-of-domain detection mechanism ensures the model remains focused on psych
     * To modify blocked keywords, edit the `DANGEROUS_WORDS`, `ILLEGAL_WORDS`, `OOD_KEYWORDS`, and `STRONG_COUNSELING_INDICATORS` lists in `assessment_gui.py`
     * To change response messages, modify the corresponding message templates in the `check_dangerous_content` and `check_out_of_domain` functions
 
+> To be noticed, if you use GUI to do the assessment, you can only select the models in your `/content/drive/MyDrive/AIAA3102/Final_Project/Models` directory
+
 This module ensures that the fine-tuned model operates within safe and professional boundaries while maintaining flexibility for legitimate counseling discussions that may include technical terminology.
 
 ---
