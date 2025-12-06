@@ -1,0 +1,56 @@
+# training_args.yaml
+# 训练相关参数（适配 Colab T4 + QLoRA / LoRA）
+seed: 42
+
+# 模型与输出
+model_name_or_path: "TinyLlama/TinyLlama_v1.1"  # 替换为你使用的 tinyllama repo
+output_dir: "Models/tinyllama_ai_finetuned" 
+
+# LoRA / PEFT 设置（若使用 LoRA）
+lora:
+  use_lora: false
+  r: 8
+  lora_alpha: 32
+  lora_dropout: 0.1
+  target_modules: ["q_proj", "k_proj", "v_proj", "o_proj"]   # 依据 tinyllama 实际模块名调整
+
+# QLoRA（4-bit）设置（如使用 QLoRA，请设置 use_qlora: true）
+qlora:
+  use_qlora: false
+  use_4bit: false
+  mode: "4bit"
+  bnb_4bit_quant_type: "nf4"
+  bnb_4bit_compute_dtype: "bfloat16"
+  bnb_4bit_use_double_quant: true
+
+# 数据/训练超参
+per_device_train_batch_size: 30
+per_device_eval_batch_size: 1
+gradient_accumulation_steps: 1
+num_train_epochs: 1
+max_steps: null            # 若指定 steps，则覆盖 num_train_epochs
+save_steps: 2000
+save_total_limit: 1
+
+# 学习率 / 优化
+learning_rate: 5e-5
+weight_decay: 0.0
+adam_beta1: 0.9
+adam_beta2: 0.95
+adam_epsilon: 1e-8
+
+# 日志与评估
+logging_steps: 50
+eval_strategy: "steps"   # "no" | "steps" | "epoch"
+eval_steps: 200
+load_best_model_at_end: true
+metric_for_best_model: "refusal_rate"  # 可自定义 (accuracy / loss / refusal_rate)
+
+# 设备与数值
+fp16: true
+gradient_checkpointing: true
+
+# 其它
+push_to_hub: false           # 若训练结束后自动 push，可设为 true
+report_to: "none"           # "wandb" / "tensorboard" / "none"
+overwrite_output_dir: true
