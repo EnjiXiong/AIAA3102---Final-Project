@@ -246,29 +246,51 @@ The safety and legality check feature blocks requests containing dangerous or il
 ```
 
 
-##### **2.2 Train a Dedicated “Safety LoRA Adapter”**
+##### **2.2 Out-of-Domain Detection**
 
-* Train a small LoRA adapter specifically for safe completions
-* Keep your main counseling LoRA separate
-* Combine using:
+The out-of-domain detection mechanism ensures the model remains focused on psychological counseling by implementing context-aware filtering. Unlike simple keyword blocking, this approach first checks for counseling-related contextual indicators before evaluating domain-relevant keywords.
 
-  * **Adapter merging**, or
-  * **Multi-adapter routing**
+##### **Implementation Details:**
 
-#### **Evaluation**
+* **Two-stage decision process:**
+  1. Stage 1: Check for strong counseling context using 48 psychological indicators (e.g., "anxiety," "stress," "sleep problems")
+  2. Stage 2: Only if no counseling context is found, check for 32 technical terms spanning mathematics, programming, medicine, and legal topics
+* Contextual intelligence allows legitimate discussions where technical subjects appear in psychological contexts
+* Uses the same word-boundary regex matching for accurate detection
 
-* **Refusal Rate**
-  Percentage of dangerous prompts where model correctly refuses
-* **Safety Score (GPT-judge)**
-  Evaluate:
+##### **Example allowed inputs (with context):**
 
-  * Whether the refusal is appropriate
-  * Whether harmful advice is avoided
-  * Whether the response includes a gentle redirection to professionals
-* **Before vs After comparison**
-  Measure improvement relative to baseline TinyLlama.
+* "I'm anxious about my upcoming math exam and it's affecting my sleep."
+* "My stress about programming is affecting my relationships."
 
-This direction demonstrates ethical and legally-compliant deployment of counseling models.
+##### **Example blocked inputs (without context):**
+
+* "How to solve this calculus problem"
+* "Write me a Python program to calculate Fibonacci numbers"
+
+##### **Example response for out-of-domain content:**
+
+```
+⚠️ DOMAIN RESTRICTION: I notice your question relates to math, programming, and more, which is outside my area of expertise as a counseling-focused AI assistant. I'm designed to help with mental health, emotional well-being, and personal challenges. For questions about specific technical topics, I'd recommend consulting with a specialist in that field.
+```
+
+#### **How to Run**
+
+1. Launch the assessment interface:
+2. Using the interface:
+    * Step 1: Select and load a trained model from the dropdown menu
+    * Step 2: For validation, set the number of samples and click "Run Validation"
+    * Step 3: For interactive chat, enter your prompt in the input box and click "Generate Response"
+    * Step 4: Adjust temperature and top-p parameters to control response randomness
+3. Testing safety features:
+    * Try entering prompts containing dangerous keywords (e.g., "suicide," "bomb")
+    * Try entering technical questions outside the counseling domain (e.g., "how to code in Python")
+    * Try entering prompts with technical keywords in counseling context (e.g., "I'm stressed about my math exam")
+4. Customization:
+    * To modify blocked keywords, edit the `DANGEROUS_WORDS`, `ILLEGAL_WORDS`, `OOD_KEYWORDS`, and `STRONG_COUNSELING_INDICATORS` lists in `assessment_gui.py`
+    * To change response messages, modify the corresponding message templates in the `check_dangerous_content` and `check_out_of_domain` functions
+
+This module ensures that the fine-tuned model operates within safe and professional boundaries while maintaining flexibility for legitimate counseling discussions that may include technical terminology.
 
 ---
 
