@@ -423,7 +423,7 @@ We compared four training paradigms:
 4. **Download visualization toolkit**
    - Download the zip from:  
      **https://huggingface.co/datasets/EnjiXiong/AIAA3102_Final_Project_A/tree/main**
-   - Extract the downloaded folder.z`
+   - Extract the downloaded folder.zip
    - Copy your `tinyllama_ai_finetuned` folder into the \Final_Project\Models\Advanced folder.
 
 5. **Visualize the results**
