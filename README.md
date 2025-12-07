@@ -73,7 +73,7 @@ AIAA3102/Final_Project
 │   ├── train_base0.py # Previous base code
 │   └── .ipynb_checkpoints/
 │
-├── AIAA3102_FinalProject_counseling_dataset.ipynb # main ipynb, the others are our attempts and worth remembering 
+├── AIAA3102_FinalProject_counseling_dataset.ipynb # now named main.ipynb, the others are our attempts and worth remembering 
 ├── AIAA3102_FinalProject_wyy_01.ipynb
 ├── AIAA3102_FinalProject_wyy_02.ipynb
 ├── AIAA3102_FinalProject_Awareness_1on1r.ipynb
