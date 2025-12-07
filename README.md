@@ -175,7 +175,36 @@ TensorBoard logging is enabled:
 ```bash
 %load_ext tensorboard
 %tensorboard --logdir runs
+
 ```
+
+## 🧪 Analysis of Overfitting Control
+
+To investigate potential overfitting during training, the Psyc dataset was used to evaluate how different optimization hyperparameters influence model stability. Although the training loss and perplexity curves converge around step ~1000, signs of overfitting are still observed.
+
+### Configuration Setup
+
+Five configurations were tested, varying learning rate and weight decay:
+
+| Configuration | Learning Rate | Weight Decay |
+|--------------|----------------|--------------|
+| LR-1         | 2e-5           | 0            |
+| LR-2         | 1e-5           | 0            |
+| LR-3         | 5e-6           | 0            |
+| WD-1         | 2e-5           | 0.01         |
+| WD-2         | 2e-5           | 0.1          |
+
+### Purpose of This Direction
+
+This direction aims to understand how learning rate and weight decay affect overfitting, convergence behavior, and training smoothness. The comparison provides insights into how small models and counseling-oriented data respond to different regularization levels.
+
+#### **How to Run**
+
+After each training run, the program automatically saves a `training_log.json` file inside the `tinyllama_ai_finetuned` directory.  
+This file contains all metrics required for overfitting analysis, including perplexity, training loss, and evaluation loss.
+
+To visualize these metrics, follow the same procedure described in **Advanced Direction 3 – How to Run**, where the plotting scripts can load `training_log.json` and generate the corresponding convergence and overfitting figures.
+
 
 ---
 
@@ -309,41 +338,99 @@ This module ensures that the fine-tuned model operates within safe and professio
 
 ---
 
-### **3. Intrinsic Model Improvement (LoRA Ablation Study)**
+### **3. Experimental Directions**
 
-This direction focuses on understanding **how LoRA hyperparameters affect performance**, enabling systematic model improvement.
+This section introduces the three experimental directions explored in this study.  
+For each direction, we describe the purpose of the investigation and the configurations used for comparison.
 
-#### **Experiment Settings**
 
-Evaluate multiple LoRA configurations by modifying:
+#### **3.1 Influence of Data Characteristics and LoRA Parameters**
 
-* **Rank (r)**
-* **Dropout rate**
-* **Target modules** (q, k, v, o projections)
-* **Task performance vs. training compute**
+**Purpose:**  
+To examine how dataset characteristics (code vs. counseling) and different LoRA parameter configurations affect model behavior.  
+All experiments were performed under identical conditions (same data volume, batch size, and number of epochs).
 
-#### **Proposed Configurations**
+**What was done:**  
+We trained models on two datasets:
+- **Code dataset**
+- **Counseling dataset**
 
-| Configuration         | r  | dropout | target_modules            |
-| --------------------- | -- | ------- | ------------------------- |
-| **Config A (Small)**  | 4  | 0.1     | q, v                      |
-| **Config B (Medium)** | 8  | 0.1     | q, k, v, o                |
-| **Config C (Strong)** | 16 | 0.2     | all attention projections |
-| **Config D (Safety)** | 4  | 0.2     | minimal subset            |
+Using three LoRA configurations:
 
-#### **Evaluation**
+| Configuration | r | Alpha | Dropout | Target Modules |
+|--------------|---|--------|---------|----------------|
+| **A (Small)**  | 4 | 16 | 0.1 | q, v |
+| **B (Medium)** | 8 | 32 | 0.1 | q, k, v, o |
+| **C (Strong)** | 16 | 64 | 0.2 | q, k, v, o |
 
-* Training loss & validation loss
-* Perplexity
-* Quality of generated counseling responses
-* Robustness score (see Direction 1)
-* Safety score (if using multi-adapter)
+**Compared aspects:**  
+- LOUGE-L score  
 
-#### **Goals**
+#### **3.2 Impact of LoRA Configuration on Model Scores**
 
-* Identify which configuration yields best performance per GPU budget
-* Understand trade-offs (quality vs. compute vs. stability)
-* Provide quantitative ablation analysis for the final report
+**Purpose:**  
+To isolate and analyze the effect of LoRA architectural choices on model quality.
+
+**What was done:**  
+We varied LoRA parameters across Config A, Config B, Config C, log their quality score and visualization
+
+**Compared aspects:**  
+- Quality score variations across different LoRA structures
+
+#### **3.3 Comparison of Full-Parameter, LoRA, and QLoRA Training**
+
+**Purpose:**  
+To evaluate the efficiency and resource requirements of different fine-tuning strategies.
+
+**What was done:**  
+We compared four training paradigms:
+- **Full-parameter fine-tuning**
+- **LoRA**
+- **4-bit QLoRA**
+- **8-bit QLoRA**
+
+**Compared aspects:**  
+- CPU memory usage  
+- GPU memory usage  
+- Model size  
+- Training speed  
+
+#### **How to Run**
+
+1. **Train the model**
+   - In the main notebook, run the training section.
+   - This will produce a folder named `tinyllama_ai_finetuned`, which contains:
+     - Model checkpoints
+     - `training_log.json`
+     - Other training-related files
+
+2. **Run evaluation**
+   - Execute the evaluation section in the notebook to generate:
+     - `test_result.json`
+   - Then run:
+     - The ROUGE-L scoring module
+     - The quality-score evaluation module(dataset-dependent)
+   - These will generate:
+     - `test_result_rouge.json`
+     - `test_result_score.json`
+
+3. **Organize evaluation outputs**
+   - Move the following three files into your `tinyllama_ai_finetuned` folder:
+     - `test_result.json`
+     - `test_result_rouge.json`
+     - `test_result_score.json`
+
+4. **Download visualization toolkit**
+   - Download the zip from:  
+     **https://huggingface.co/datasets/EnjiXiong/AIAA3102_Final_Project_A/tree/main**
+   - Extract the downloaded folder.z`
+   - Copy your `tinyllama_ai_finetuned` folder into the \Final_Project\Models\Advanced folder.
+
+5. **Visualize the results**
+   - Use the Python scripts provided inside the downloaded folder to generate visualizations.
+   - Specific usage instructions can be found in the folder’s included `README.md`.
+
+
 
 ---
 
